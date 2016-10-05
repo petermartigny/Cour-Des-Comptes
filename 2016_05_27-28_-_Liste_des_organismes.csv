@@ -1,0 +1,4542 @@
+N¯ chambre;Chambre;Nom de l'entitÇ;Nature juridique;Sigle
+6;Sixiäme chambre;Caisse nationale d'assurance maladie des travailleurs salariÇs;EPA;CNAMTS
+5;Cinquiäme chambre;Institut national des jeunes sourds de Bordeaux;EPA;INJSB
+5;Cinquiäme chambre;Institut national des jeunes sourds de Paris;EPA;INJSP
+5;Cinquiäme chambre;Institut national des jeunes aveugles;EPA;INJA
+5;Cinquiäme chambre;Institut national des jeunes sourds de Metz;EPA;INJSM
+5;Cinquiäme chambre;Institut national des jeunes sourds de Coignin-ChambÇry;EPA;INJCC
+4;Quatriäme chambre;"Office franáais de l'immigration et de l'intÇgration (ex: Agence nationale de l?accueil des Çtrangers et des migrations)
+";EPA;OFII-ANAEM
+3;Troisiäme chambre;Institut national de la santÇ et de la recherche mÇdicale;EPST;INSERM
+6;Sixiäme chambre;Etablissement national des invalides de la marine;EPA;ENIM
+2;Deuxiäme chambre;Office national des anciens combattants et victimes de guerre ;EPA;ONAC
+6;Sixiäme chambre;"Centre des liaisons europÇennes et internationales de sÇcuritÇ sociale
+";EPA;CSSTM
+3;Troisiäme chambre;Institut national d'Çtudes dÇmographiques;EPST;INED
+5;Cinquiäme chambre;Agence nationale pour l'amÇlioration des conditions de travail;EPA;ANACT
+6;Sixiäme chambre;Agence centrale des organismes de sÇcuritÇ sociale;EPA;ACOSS
+6;Sixiäme chambre;Caisse nationale d'assurance vieillesse des travailleurs salariÇs;GAU;CNAVTS
+6;Sixiäme chambre;Caisse nationale militaire de sÇcuritÇ sociale;EPA;CNMSS
+5;Cinquiäme chambre;Etablissement Public national Antoine Koenigswarter;EPA;EPNAK
+6;Sixiäme chambre;Caisse nationale des allocations familiales;EPA;CNAF
+7;Septiäme chambre;Ecole nationale vÇtÇrinaire de Toulouse ;EPA;ENVT
+1;Premiäre chambre;Institut national de la consommation;EPIC;INC
+7;Septiäme chambre;Office national des foràts ;EPIC;ONF
+2;Deuxiäme chambre;Agence nationale pour les chäques vacances ;EPIC;ANCV
+3;Troisiäme chambre;Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture ;EPST;IRSTEA
+7;Septiäme chambre;Office de dÇveloppement de l'Çconomie agricole dans les dÇpartements d'outre-mer;EPA;ODEADOM
+7;Septiäme chambre;Ecole nationale du gÇnie de l?eau et de l?environnement de Strasbourg;EPA;ENGEES
+7;Septiäme chambre;Ecole nationale de formation agronomique de Toulouse Auzeville ;EPA;ENFA
+7;Septiäme chambre;Centre d'enseignement zootechnique de Rambouillet ;EPA;CEZ
+5;Cinquiäme chambre;SociÇtÇ d'Economie Mixte ADOMA;;ADOMA
+5;Cinquiäme chambre;Centre d'Çtudes et de l'emploi;EPA;CEE
+5;Cinquiäme chambre;Fonds de solidaritÇ;EPA;FS
+7;Septiäme chambre;Ecole nationale d'ingÇnieurs des travaux agricoles de Bordeaux;EPA;ENITAB
+1;Premiäre chambre;DRFIP DE LA GUYANE                                                                                                                                                                                                                          ;;DRFiP102
+1;Premiäre chambre;DRFIP DE LA GUADELOUPE                                                                                                                                                                                                                      ;;DRFiP101
+1;Premiäre chambre;DRFIP DE LA MARTINIQUE                                                                                                                                                                                                                      ;;DRFiP103
+1;Premiäre chambre;DRFIP DE LA REUNION                                                                                                                                                                                                                         ;;DRFiP104
+1;Premiäre chambre;PAIERIE DE MAYOTTE                                                                                                                                                                                                                                        ;;
+1;Premiäre chambre;DIRECTION DES FINANCES PUBLIQUES DE LA NOUVELLE CALEDONIE                                                                                                                                                                                                              ;;
+1;Premiäre chambre;DIRECTION DES FINANCES PUBLIQUES DE LA POLYNESIE FRANCAISE                                                                                                                                                                                                             ;;TG161
+1;Premiäre chambre;DIRECTION DES FINANCES PUBLIQUES DE SAINT PIERRE ET MIQUELON                                                                                                                                                                                                           ;;DDFiP105
+1;Premiäre chambre;Direction rÇgionale des finances publiques d'Ile-de-France;;RGF PARIS
+1;Premiäre chambre;Union des groupements d'achats publics ;EPIC;UGAP
+1;Premiäre chambre;DDFIP DE L'AIN                                                                                                                                                                                                                              ;;DDFiP01
+1;Premiäre chambre;DDFIP DE L'AISNE                                                                                                                                                                                                                            ;;DDFiP02
+1;Premiäre chambre;DDFIP DE L'ALLIER                                                                                                                                                                                                                           ;;DDFiP03
+1;Premiäre chambre;DDFIP DES ALPES DE HAUTE PROVENCE                                                                                                                                                                                                           ;;DDFiP04
+1;Premiäre chambre;DDFIP DES HAUTES-ALPES                                                                                                                                                                                                                      ;;DDFiP05
+1;Premiäre chambre;DDFIP DES ALPES MARITIMES                                                                                                                                                                                                                   ;;DDFiP06
+1;Premiäre chambre;DDFIP DE L'ARDECHE                                                                                                                                                                                                                          ;;DDFiP07
+1;Premiäre chambre;DDFIP DES ARDENNES                                                                                                                                                                                                                          ;;DDFiP08
+1;Premiäre chambre;DDFIP DE L'ARIEGE                                                                                                                                                                                                                           ;;DDFiP09
+1;Premiäre chambre;DDFIP DE L'AUBE                                                                                                                                                                                                                             ;;DDFiP10
+1;Premiäre chambre;DRFIP DE L'AUDE                                                                                                                                                                                                                             ;;DRFiP11
+1;Premiäre chambre;DDFIP DE L'AVEYRON                                                                                                                                                                                                                          ;;DDFiP12
+1;Premiäre chambre;DRFIP DE BASSE NORMANDIE                                                                                                                                                                                                      ;;DRFiP14
+1;Premiäre chambre;DDFIP DU CANTAL                                                                                                                                                                                                                             ;;DDFiP15
+1;Premiäre chambre;DDFIP DE LA CHARENTE                                                                                                                                                                                                                        ;;DDFiP16
+1;Premiäre chambre;DDFIP DE LA CHARENTE MARITIME                                                                                                                                                                                                               ;;DDFiP17
+1;Premiäre chambre;DDFIP DU CHER                                                                                                                                                                                                                               ;;DDFiP18
+1;Premiäre chambre;DDFIP DE LA CORREZE                                                                                                                                                                                                                         ;;DDFiP19
+1;Premiäre chambre;DDFIP DE CORSE                                                                                                                                                                                                      ;;DDFiP20
+1;Premiäre chambre;DDFIP DE LA HAUTE CORSE                                                                                                                                                                                                                     ;;DDFiP96
+1;Premiäre chambre;DRFIP DE BOURGOGNE                                                                                                                                          ;;DRFiP21
+1;Premiäre chambre;DDFIP DES COTES D'ARMOR                                                                                                                                                                                                                     ;;DDFiP22
+1;Premiäre chambre;DDFIP DE LA CREUSE                                                                                                                                                                                                                          ;;DDFiP23
+1;Premiäre chambre;DDFIP DE LA DORDOGNE                                                                                                                                                                                                                        ;;DDFiP24
+1;Premiäre chambre;DRFIP DE FRANCHE COMTE                                                                                                                                                                                                                         ;;DRFiP25
+1;Premiäre chambre;DDFIP DE LA DROME                                                                                                                                                                                                                           ;;DDFiP26
+1;Premiäre chambre;DDFIP DE L'EURE ET LOIR                                                                                                                                                                                                                        ;;DDFiP28
+1;Premiäre chambre;DDFIP DU FINISTERE                                                                                                                                                                                                                          ;;DDFiP29
+1;Premiäre chambre;DRFIP DE MIDI PYRENEES                                                                                                                                                                                                                 ;;DRFiP31
+1;Premiäre chambre;DDFIP DU GERS                                                                                                                                                                                                                               ;;DDFiP32
+1;Premiäre chambre;DRFIP DE L'AQUITAINE                                                                                                                                                                                                                         ;;DRFiP33
+1;Premiäre chambre;DRFIP DE LANGUEDOC-ROUSSILLON ET DU DEPARTEMENT DE L'HERAULT ;;DRFiP34
+1;Premiäre chambre;DDFIP DE L'EURE                                                                                                                                                                                                                             ;;DDFiP27
+1;Premiäre chambre;DRFIP DE RHONE  ALPES                                                                                                                                                                                                                            ;;DRFiP69
+1;Premiäre chambre;DDFIP DE LA HAUTE SAONE                                                                                                                                                                                                                     ;;DDFiP70
+1;Premiäre chambre;DDFIPE DE SAONE ET LOIRE                                                                                                                                                                                                                     ;;DDFiP71
+1;Premiäre chambre;DDFIP DE LA SARTHE                                                                                                                                                                                                                          ;;DDFiP72
+1;Premiäre chambre;DDFIPDE LA SAVOIE                                                                                                                                                                                                                          ;;DDFiP73
+1;Premiäre chambre;DDFIP DE LA HAUTE SAVOIE                                                                                                                                                                                                                    ;;DDFiP74
+1;Premiäre chambre;DRFIP DE HAUTE-NORMANDIE;;DRFiP76
+1;Premiäre chambre;DDFIP DE SEINE ET MARNE                                                                                                                                                                                                                     ;;DDFiP77
+1;Premiäre chambre;DDFIP DES YVELINES                                                                                                                                                                                                                          ;;DDFiP78
+1;Premiäre chambre;DDFIP DES DEUX-SEVRES                                                                                                                                                                                                                       ;;DDFiP79
+1;Premiäre chambre;DRFIP DE LA PICARDIE                                                                                                                                                                                                           ;;DRFiP80
+1;Premiäre chambre;DDFIP DU TARN                                                                                                                                                                                                                               ;;DDFiP81
+1;Premiäre chambre;DDFIP DE TARN ET GARONNE                                                                                                                                                                                                                    ;;DDFiP82
+1;Premiäre chambre;DDFIP DU VAR                                                                                                                                                                                                                                ;;DDFiP83
+1;Premiäre chambre;DDFIP DU VAUCLUSE                                                                                                                                                                                                                           ;;DDFiP84
+1;Premiäre chambre;DDFIP DE LA VENDEE                                                                                                                                                                                                                          ;;DDFiP85
+1;Premiäre chambre;DDFIP DE LA VIENNE                                                                                                                                                                                                                          ;;DDFiP86
+1;Premiäre chambre;DRFIP DU LIMOUSIN                                                                                                                                                                                                                  ;;DRFiP87
+1;Premiäre chambre;DDFIP DES VOSGES                                                                                                                                                                                                                            ;;DDFiP88
+1;Premiäre chambre;DDFIP DE L'ESSONNE                                                                                                                                                                                                                          ;;DDFiP91
+1;Premiäre chambre;DDFIP DE LA SEINE SAINT DENIS                                                                                                                                                                                                               ;;DDFiP93
+1;Premiäre chambre;DDFIP DU VAL DE MARNE                                                                                                                                                                                                                       ;;DDFiP94
+1;Premiäre chambre;DDFIP DU VAL-D'OISE                                                                                                                                                                                                                         ;;DDFiP95
+1;Premiäre chambre;DRFIP DE PROVENCE ALPES COTE D'AZUR                                                                                                                                                                                                            ;;DRFiP13
+1;Premiäre chambre;DDFIP DE L'YONNE                                                                                                                                                                                                                            ;;
+1;Premiäre chambre;DDFIP DU GARD                                                                                                                                                                                                                               ;;DDFiP30
+1;Premiäre chambre;DDFIP DES LANDES                                                                                                                                                                                                                            ;;DDFiP40
+1;Premiäre chambre;DDFIP DE LA MAYENNE                                                                                                                                                                                                                         ;;DDFiP53
+1;Premiäre chambre;DDFIP DES HAUTS DE SEINE                                                                                                                ;;DDFiP92
+1;Premiäre chambre;DDFIP D'ILLE ET VILAINE                                                                                                                                                                                                                     ;;DDFiP35
+1;Premiäre chambre;DDFIP DE L'INDRE                                                                                                                                                                                                                            ;;DDFiP36
+1;Premiäre chambre;DRFIP D'INDRE ET LOIRE                                                                                                                                                                                                                   ;;DRFiP37
+1;Premiäre chambre;DDFIP DE L'ISERE                                                                                                                                                                                                                            ;;DDFiP38
+1;Premiäre chambre;DDFIP DU JURA                                                                                                                                                                                                                               ;;DDFiP39
+1;Premiäre chambre;DDFIP DU LOIR ET CHER                                                                                                                                                                                                                       ;;DDFiP41
+1;Premiäre chambre;DDFIP DE LA LOIRE                                                                                                                                                                                                                           ;;DDFiP42
+1;Premiäre chambre;DDFIP DE LA HAUTE LOIRE                                                                                                                                                                                                                     ;;DDFiP43
+1;Premiäre chambre;DRFIP DES PAYS DE LA LOIRE                                                                                                                                                                                                                  ;;DRFiP44
+1;Premiäre chambre;DRFIP DU CENTRE                                                                                                                                                                                                           ;;DRFiP45
+1;Premiäre chambre;DDFIP DU LOT                                                                                                                                                                                                                                ;;DDFiP46
+1;Premiäre chambre;DDFIP DU LOT ET GARONNE                                                                                                                                                                                                                     ;;DDFiP47
+1;Premiäre chambre;DDFIP DE LA LOZERE                                                                                                                                                                                                                          ;;DDFiP48
+1;Premiäre chambre;DDFIP DE MAINE ET LOIRE                                                                                                                                                                                                                     ;;DDFiP49
+1;Premiäre chambre;DDFIP DE LA MANCHE                                                                                                                                                                                                                          ;;DDFiP50
+1;Premiäre chambre;DRFIP DE LA CHAMPAGNE-ARDENNE                                                                                                                                                                                                                    ;;DRFiP51
+1;Premiäre chambre;DDFIP DE LA HAUTE MARNE                                                                                                                                                                                                                     ;;DDFiP52
+1;Premiäre chambre;DDFIP DE LA MEURTHE ET MOSELLE                                                                                                                                                                                                              ;;DDFiP54
+1;Premiäre chambre;DDFIP DE LA MEUSE                                                                                                                                                                                                                           ;;DDFiP55
+1;Premiäre chambre;DDFIP DU MORBIHAN                                                                                                                                                                                                                           ;;DDFiP56
+1;Premiäre chambre;DDFIP DE LA NIEVRE                                                                                                                                                                                                                          ;;DDFiP58
+1;Premiäre chambre;DRFIP DU NORD PAS-DE-CALAIS                                                                                                                                                                                                                               ;;DRFiP59
+1;Premiäre chambre;DDFIP DE L'OISE                                                                                                                                                                                                                             ;;DDFiP60
+1;Premiäre chambre;DDFIP DE L'ORNE                                                                                                                                                                                                                             ;;DDFiP61
+1;Premiäre chambre;DDFIP DU PAS DE CALAIS                                                                                                                                                                                                                      ;;DDFiP62
+1;Premiäre chambre;DDFIP DES HAUTES PYRENEES                                                                                                                                                                                                                   ;;DDFiP65
+1;Premiäre chambre;DDFIP DES PYRENEES ORIENTALES                                                                                                                                                                                                               ;;DDFiP66
+1;Premiäre chambre;DDFIP DU TERRITOIRE DE BELFORT                                                                                                                                                                                                              ;;DDFiP90
+7;Septiäme chambre;Grand Port maritime de Bordeaux;EPIC;GPMB
+7;Septiäme chambre;Port autonome de Strasbourg;EP sui generis;PAS
+7;Septiäme chambre;Compagnie gÇnÇrale maritime et financiäre ;;CGMF
+7;Septiäme chambre;RÇgie autonome des transports parisiens ;;RATP
+7;Septiäme chambre;Caisse nationale des autoroutes ;EPA;CNA
+7;Septiäme chambre;Grand port maritime de Rouen ;EPIC;GPMR
+7;Septiäme chambre;Grand Port maritime du Havre ;EPIC;GPMH
+7;Septiäme chambre;Grand Port maritime de Marseille;EPIC;GPMM
+7;Septiäme chambre;Grand Port maritime de Nantes Saint Nazaire;EPIC;GPMN
+7;Septiäme chambre;Grand Port maritime de la Guadeloupe;EPIC;GPMG (ex PAG)
+7;Septiäme chambre;SNCF MobilitÇ (SociÇtÇ nationale des chemins de fer franáais);;SNCF
+7;Septiäme chambre;AÇroport de Paris;;AdP
+7;Septiäme chambre;Chambre nationale de la batellerie artisanale;EPA;CNBA
+7;Septiäme chambre;Ecole nationale de l'aviation civile ;EPA;ENAC
+2;Deuxiäme chambre;Agence comptable des services industriels de l'armement ;;ACSIA
+2;Deuxiäme chambre;Office national d'Çtudes et de recherches aÇrospatiales;EPIC;ONERA
+2;Deuxiäme chambre;Economat des armÇes;EPIC;ECONARM
+2;Deuxiäme chambre;AcadÇmie de marine;EPA;ACMAR
+2;Deuxiäme chambre;MusÇe de la marine;EPA;MUSMAR
+2;Deuxiäme chambre;MusÇe de l'armÇe;EPA;MUSARM
+2;Deuxiäme chambre;Ecole polytechnique de Palaiseau ;EPA;EPP
+7;Septiäme chambre;Port autonome de Paris ;EPIC;PAP
+3;Troisiäme chambre;Institut franáais de recherche pour l'exploitation de la mer;EPIC;IFREMER
+2;Deuxiäme chambre;SociÇtÇ de gestion des participations aÇronautiques;;SOGEPA
+7;Septiäme chambre;SociÇtÇ Franáaise du tunnel routier de Frejus;;SFTRF
+7;Septiäme chambre;SociÇtÇ des Autoroutes et tunnel du Mont-Blanc ;;ATMB
+1;Premiäre chambre;DRFIP DE LA LORRAINE                                                                                                                                                                                                                        ;;DRFiP57
+1;Premiäre chambre;DRFIP D'AUVERGNE                                                                                                                                                                                                                  ;;DRFiP63
+1;Premiäre chambre;DDFIP DES PYRENEES ATLANTIQUES                                                                                                                                                                                                              ;;DDFiP64
+1;Premiäre chambre;DRFIP D'ALSACE                                                                                                                                                                                                                  ;;DRFiP67
+1;Premiäre chambre;DDFIP DU HAUT RHIN                                                                                                                                                                                                                          ;;DDFiP68
+1;Premiäre chambre;RECETTE PRINCIPALE REGIONALE DES DOUANES DE PARIS;;RPRDP
+7;Septiäme chambre;Office national de la chasse et de la faune sauvage;EPA;ONCFS
+7;Septiäme chambre;Agence de l'eau Seine Normandie;EPA;AESN
+7;Septiäme chambre;Agence de l'eau Adour-Garonne;EPA;AEAG
+7;Septiäme chambre;Agence de l'eau Rhin-Meuse;EPA;AERM
+7;Septiäme chambre;Agence de l'eau Loire-Bretagne;EPA;AELB
+7;Septiäme chambre;Agence de l'eau Artois-Picardie;EPA;AEAP
+7;Septiäme chambre;Agence de l'eau Rhìne-MÇditerranÇe-Corse;EPA;AERMC
+7;Septiäme chambre;Parc national des Ecrins;EPA;PNE
+7;Septiäme chambre;Parc national des PyrÇnÇes occidentales;EPA;PNPO
+7;Septiäme chambre;Parc national de Port-Cros;EPA;PNPC
+7;Septiäme chambre;Parc national de la Vanoise;EPA;EPNV
+7;Septiäme chambre;Parc national du Mercantour;EPA;PNM
+7;Septiäme chambre;Parc national des CÇvennes;EPA;PNC
+7;Septiäme chambre;Conservatoire national de l'espace littoral et des rivages lacustres ;EPA;CNELRL
+5;Cinquiäme chambre;"Agence nationale de l'Habitat
+(ex: Agence nationale pour l'amÇlioration de l'habitat)";EPA;ANAH
+1;Premiäre chambre;Banque de France;;BdF
+7;Septiäme chambre;Institut national de l'information gÇographique et forestiäre (Institut gÇographique national);EPA;IGN
+4;Quatriäme chambre;Centre national de la fonction publique territoriale;EPA;CNFPT
+1;Premiäre chambre;Caisse centrale de rÇassurance;;CCR
+2;Deuxiäme chambre;Commissariat Ö l'Çnergie atomique et aux Çnergies alternatives;;CEA
+2;Deuxiäme chambre;ElectricitÇ de France ;;EDF
+2;Deuxiäme chambre;Bureau de recherches gÇologiques et miniäres;EPIC;BRGM
+3;Troisiäme chambre;Fondation Singer Polignac ;EPA;
+4;Quatriäme chambre;Ordre de la lÇgion d'honneur grande chancellerie budget annexe de l'êtat;;
+4;Quatriäme chambre;Ecole nationale de la magistrature;EPA;ENM
+4;Quatriäme chambre;RÇgie industrielle des Çtablissements pÇnitentiaires  (Compte de commerce n¯ 904-11)                                                                                                                                                                        ;;RIEP
+2;Deuxiäme chambre;Centre national d'Çtudes spatiales;EPIC;CNES
+2;Deuxiäme chambre;Institut national de la propriÇtÇ industrielle;EPA;INPI
+2;Deuxiäme chambre;Laboratoire national de mÇtrologie et d'essais;EPIC;LNME
+4;Quatriäme chambre;Budget annexe Publication officielles et information administrative BUDGET ANNEXE DES JOURNAUX OFFICIELS (ID 1552 DOCUMENTATION FRANCAISE INCLUSE DEPUIS 2007)                                                                                                                                                                ;;JO
+3;Troisiäme chambre;UniversitÇ PanthÇon - Sorbonne Paris I;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre national de la recherche scientifique;EPST;CNRS
+4;Quatriäme chambre;Agence de l'outre-mer pour la mobilitÇ;;LADOM
+3;Troisiäme chambre;Office national d'information sur les enseignements et les professions;EPA;ONISEP
+3;Troisiäme chambre;Ecole nationale d'ingÇnieurs de Tarbes;EPA;ENIT
+3;Troisiäme chambre;Ecole nationale d'ingÇnieurs de Saint-Etienne;EPSCP;ENISE
+3;Troisiäme chambre;Ecole nationale d'ingÇnieurs de Brest;EPA;ENIB
+3;Troisiäme chambre;Ecole centrale de Lille;EPSCP;ECL
+3;Troisiäme chambre;Institut national des sciences appliquÇes de Rennes;EPSCP;INSA
+3;Troisiäme chambre;Institut national des sciences appliquÇes de Toulouse;EPSCP;INSA
+3;Troisiäme chambre;Ecole normale supÇrieure de Paris;EPSCP;ENS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Paris;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de CrÇteil;EPA;CROUS
+3;Troisiäme chambre;Institut national des sciences appliquÇes de Lyon;EPSCP;INSA
+3;Troisiäme chambre;êcole nationale d'ingÇnieurs de Metz;EPA;ENIM
+5;Cinquiäme chambre;Centre d'Çtudes et de recherches sur les qualifications;EPA;CEREQ
+3;Troisiäme chambre;RÇseau CanopÇ (ex CNDP);EPA;CNDP/CRDP
+3;Troisiäme chambre;CENTRE INTERNATIONAL D'ETUDES PEDAGOGIQUES;EPA;CIEP
+3;Troisiäme chambre;AcadÇmie des sciences d'Outre-Mer ;EPA;ASOM
+3;Troisiäme chambre;Colläge de France;EPSCP;COFRANCE
+3;Troisiäme chambre;Ecole nationale des chartes;EPSCP;ENCH
+3;Troisiäme chambre;Institut national  de la jeunesse et de l'Çducation populaire;EPA;INJEP
+3;Troisiäme chambre;Institut national du sport de l'expertise et de la performance (ex: Institut national du sport et de l'Çducation physique);EPSCP;INSEP
+3;Troisiäme chambre;UniversitÇ de la RÇunion;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Rennes I;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Rouen;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Strasbourg;EPA;CROUS
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de Strasbourg ;EPA;
+3;Troisiäme chambre;Bibliothäque nationale universitaire de Strasbourg;EPA;BNUS
+3;Troisiäme chambre;UniversitÇ de Haute-Alsace;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie  de l'universitÇ de Grenoble ;EPA;
+3;Troisiäme chambre;UniversitÇ du Havre;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Claude Bernard de Lyon I;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Bretagne Occidentale;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Rennes;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ de Haute Bretagne Rennes II;EPSCP;UHB
+3;Troisiäme chambre;Ecole nationale supÇrieure de chimie de Rennes;EPA;ENSCR
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de Rennes ;EPA;
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de La RÇunion;EPA;CROUS
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de La RÇunion ;EPA;
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de Rouen ;EPA;
+3;Troisiäme chambre;UniversitÇ de Rouen;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Ecole nationale de voile et des sports nautiques;EPA;ENVSN
+3;Troisiäme chambre;UniversitÇ de Lille I;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Ecole nationale supÇrieure de chimie de Lille;EPA;ENSCL
+3;Troisiäme chambre;UniversitÇ de Lille II;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Lille III;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Lille;EPA;CROUS
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de Lille ;EPA;
+3;Troisiäme chambre;UniversitÇ de Lyon III;EPA-EPCS;
+3;Troisiäme chambre;Institut d'Çtudes politiques de Lyon;EPA;IEP
+3;Troisiäme chambre;UniversitÇ de Lyon II;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de  l'universitÇ de Lyon ;EPA;
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Lyon;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Limoges;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ de Limoges;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Limoges ;EPA;
+3;Troisiäme chambre;Institut national polytechnique de Grenoble;EPSCP;IPG
+3;Troisiäme chambre;UniversitÇ Stendhal de Grenoble III ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Institut d'Çtudes politiques de Grenoble;EPA;IEP
+3;Troisiäme chambre;UniversitÇ Pierre Mendäs France Grenoble II ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Joseph Fournier Grenoble I ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Grenoble;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ Paul ValÇry de Montpellier III ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Ecole nationale supÇrieure de chimie de Montpellier;EPA;ENSCM
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Montpellier ;EPA;
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de montpellier;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ de Saint-êtienne ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Perpignan;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Valenciennes et du Hainaut Cambresis;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Savoie Mont Blanc;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre national d'enseignement Ö distance;EPA;CNED
+3;Troisiäme chambre;Institut franáais d'archÇologie orientale du Caire;EPSCP;IFAO
+3;Troisiäme chambre;Ecole franáaise d'Extràme Orient;EPSCP;EFEO
+3;Troisiäme chambre;Ecole franáaise de Rome;EPSCP;EFR
+3;Troisiäme chambre;Casa de Velasquez Ö Madrid;EPSCP;ECV
+3;Troisiäme chambre;ThÇÉtre national de Chaillot;EPIC;TNCHA
+3;Troisiäme chambre;RÇunion des musÇes nationaux et du Grand Palais des champs-ElysÇes;EPIC;RMN
+3;Troisiäme chambre;MusÇe Jean-Jacques Henner;EPA;MJJH
+3;Troisiäme chambre;MusÇe Gustave Moreau;EPA;MGM
+3;Troisiäme chambre;MusÇe Rodin;EPA;MR
+3;Troisiäme chambre;Bibliothäque publique d'information;EPA;BPI
+3;Troisiäme chambre;Centre national d'art et de culture Georges Pompidou et de la Bibliothäque publique de l'information ;EPA;CNAC
+3;Troisiäme chambre;AcadÇmie de France Ö Rome;EPA;AFR
+3;Troisiäme chambre;Conservatoire national des arts et mÇtiers;EPSCP;CNAM
+3;Troisiäme chambre;Ecole des hautes Çtudes des sciences sociales;EPSCP;EHESS
+3;Troisiäme chambre;Ecole pratique des hautes Çtudes;EPSCP;EPHE
+3;Troisiäme chambre;Ecole nationale supÇrieure de cÇramique industrielle;EPA;ENSCI
+3;Troisiäme chambre;Ecole centrale des arts et manufactures;EPSCP;ECAM
+3;Troisiäme chambre;Ecole centrale de Lyon;EPSCP;ECL
+3;Troisiäme chambre;Ecole nationale supÇrieure des sciences de l'information et des bibliothäques;EPSCP;ENSSIB
+3;Troisiäme chambre;Ecole nationale supÇrieure des arts et industries textiles de Roubaix;EPSCP;ENSAIT
+3;Troisiäme chambre;Centre de coopÇration internationale en recherche agronomique pour le dÇveloppement;EPIC;CIRAD
+3;Troisiäme chambre;Ecole nationale supÇrieure de crÇation industrielle;EPIC;ENSCI
+3;Troisiäme chambre;Ecole nationale supÇrieure des arts dÇcoratifs;EPA;ENSAD
+3;Troisiäme chambre;Ecole nationale supÇrieure des beaux-arts ;EPA;ENSBA
+4;Quatriäme chambre;Institut rÇgional d'administration de Lyon;EPA;IRA
+4;Quatriäme chambre;Institut rÇgional d'administration de Metz;EPA;IRA
+4;Quatriäme chambre;Institut rÇgional d'administration de Nantes;EPA;IRA
+4;Quatriäme chambre;Institut rÇgional d'administration de Bastia;EPA;IRA
+4;Quatriäme chambre;Institut rÇgional d'administration de Lille;EPA;IRA
+4;Quatriäme chambre;Ecole nationale d'administration;EPA;ENA
+3;Troisiäme chambre;Conservatoire national supÇrieur de musique et de la danse de Paris;EPA;CNSMP
+4;Quatriäme chambre;Office universitaire et culturel franáais en AlgÇrie;EPA;OUCFA
+4;Quatriäme chambre;Office franáais pour la protection des rÇfugiÇs et apatrides;EPA;OFPRA
+3;Troisiäme chambre;Centre national des arts plastiques;EPA;CNAP
+3;Troisiäme chambre;Centre national du cinÇma et de l'image animÇe ;EPA;CNC
+3;Troisiäme chambre;MusÇum national d'histoire naturelle;EPSCP;MNHN
+3;Troisiäme chambre;Observatoire de Paris ;EPSCP;OP
+3;Troisiäme chambre;Institut de France-domaine de Chantilly;;IFDC
+3;Troisiäme chambre;Institut de France et des acadÇmies (fondations de France);Personne publique;IF
+3;Troisiäme chambre;Conservatoire national supÇrieur de musique de Lyon;EPA;CNSML
+3;Troisiäme chambre;ThÇÉtre national de Strasbourg;EPIC;TNS
+3;Troisiäme chambre;ThÇÉtre national de l'OdÇon;EPIC;TNO
+3;Troisiäme chambre;Conservatoire national supÇrieur d'art dramatique;EPA;CNSAD
+3;Troisiäme chambre;ThÇÉtre national de la Colline;EPIC;TNCOL
+3;Troisiäme chambre;UniversitÇ de Paris XIII Paris-Nord;EPSCP;UNIVERSITE
+3;Troisiäme chambre;"UniversitÇ de Paris XII ""Paris Val-de-Marne"" ";EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris Sud : Paris XI;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie des universitÇs de Paris ;EPA;
+3;Troisiäme chambre;UniversitÇ Paris II PanthÇon-ASSAS;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Paris III Sorbonne Nouvelle;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris IV Paris Sorbonne;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris V Descartes ;;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris VI Pierre et Marie Curie ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;êcole nationale supÇrieure de chimie de Paris ;EPA;ENSCP
+3;Troisiäme chambre;UniversitÇ Paris VII Denis Diderot;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris VIII Vincennes Saint-Denis;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris IX Paris Dauphine;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Paris Ouest Nanterre La DÇfense - UniversitÇ Paris X Nanterre ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de l'universitÇ d'Amiens ;EPA;
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires d'Aix-Marseille;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires d'Amiens;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ des Antilles-Guyane ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de technologie de Compiägne;EPSCP;UTC
+3;Troisiäme chambre;Institut national polytechnique de Toulouse;EPSCP;INP
+3;Troisiäme chambre;Chancellerie de l'UniversitÇ d'Aix-Marseille ;EPA;
+3;Troisiäme chambre;UniversitÇ de Besanáon Franche-ComtÇ;;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Caen;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de l'UniversitÇ de Toulouse ;EPA;
+3;Troisiäme chambre;UniversitÇ de Toulouse I  Capitole;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Institut d'Çtudes politiques de Toulouse;EPA;IEP
+3;Troisiäme chambre;UniversitÇ d'Avignon et des pays du Vaucluse;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Corse Pascal Paoli ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Picardie -Jules Verne Amiens;;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ de Toulouse III (Paul Sabatier;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Toulouse;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ Toulouse II Le Mirail ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Institut d'Çtudes politiques d'Aix-Marseille III;EPA;IEP
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Besanáon ;EPA;
+3;Troisiäme chambre;êcole nationale supÇrieure de mÇcanique et de microtechniques de Besanáon;EPA;ENSMM
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Besanáon;EPA;CROUS
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Bordeaux;EPA;
+3;Troisiäme chambre;Institut d'Çtudes politiques de Bordeaux;EPA;IEP
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Bordeaux;EPA;CROUS
+3;Troisiäme chambre;UniversitÇ de Pau et des Pays-de-l'Adour ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Caen ;EPA;
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Caen;EPA;CROUS
+3;Troisiäme chambre;êcole nationale supÇrieure d'ingÇnieurs de Caen ;EPA;ENSIC
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Clermont-Ferrand;EPA;CROUS
+3;Troisiäme chambre;Chancellerie des l'universitÇs de Clermont-Ferrand ;EPA;
+3;Troisiäme chambre;UniversitÇ d'Auvergne  Clermont-Ferrand I;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Blaise Pascal  Clermont-Ferrand II;EPSCP;UNIVERSITE
+3;Troisiäme chambre;êcole nationale supÇrieure de chimie de Clermont-Ferrand (Clermont-Ferrand II);EPA;ENSCCF
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Corse ;EPA;
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Corte;EPA;CROUS
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Dijon ;EPA;
+3;Troisiäme chambre;UniversitÇ de Dijon ;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Dijon;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Nancy;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Nantes;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Nice;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires d'OrlÇans;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Poitiers;EPA;CROUS
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Reims;EPA;CROUS
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Nancy-Metz;EPA;
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Nantes ;EPA;
+3;Troisiäme chambre;UniversitÇ de Nantes;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ d'Angers;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ du Maine (Le Mans);EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Nice ;EPA;
+3;Troisiäme chambre;UNIVERSITE DE NICE;EPSCP;UNS
+3;Troisiäme chambre;UniversitÇ de Toulon et du Var;EPSCP;UNIVERSITE
+3;Troisiäme chambre;Chancellerie des universitÇ d'OrlÇans-Tours ;EPA;
+3;Troisiäme chambre;UniversitÇ d'OrlÇans;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UniversitÇ Franáois Rabelais de Tours  ;;UNIVERSITE
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Poitiers ;EPA;
+3;Troisiäme chambre;UniversitÇ de Poitiers;EPSCP;UNIVERSITE
+3;Troisiäme chambre;êcole nationale supÇrieure de mÇcanique et d'aÇrotechnique de Poitiers;EPA;
+3;Troisiäme chambre;Chancellerie de l'universitÇ de l'acadÇmie de Reims ;EPA;
+3;Troisiäme chambre;UniversitÇ de Reims Champagne Ardenne;EPSCP;UNIVERSITE
+5;Cinquiäme chambre;Centre scientifique et technique du bÉtiment ;EPIC;CSTB
+3;Troisiäme chambre;Institut national de recherche en informatique et en automatique;EPST;INRIA
+3;Troisiäme chambre;Institut supÇrieur mÇcanique de Paris;EPSCP;ISMEP
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Ain;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Aisne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Allier;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Alpes de Haute-Provence;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Alpes-Maritimes;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Hautes-Alpes;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Ardäche;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Ardennes;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Ariäge;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Aube;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Aude;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Aveyron;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Bouches-du-Rhìne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Calvados;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Cantal;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Cher;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Corse du Sud;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Cìte d'Or;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Cìtes d'Armor;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Creuse;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Dordogne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Drìme;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Eure;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Eure-et-Loir;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Finistäre;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Gard;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Haute-Garonne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Gers;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Gironde;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'HÇrault;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture d'Ile-et-Vilaine;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Indre;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture d'Indre-et-Loire;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Isäre;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Jura;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Landes;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Loir-et-Cher;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Loire;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Haute-Loire;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Loire-Atlantique;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Loiret;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Lot;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Lot-et-Garonne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Lozäre;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Maine-et-Loire;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Manche;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Marne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Haute-Marne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Mayenne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Meurthe-et-Moselle;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Meuse;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Morbihan;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Moselle;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Niävre;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Oise;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Orne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Puy-de-Dìme;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des PyrÇnÇes-Atlantiques;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Hautes-PyrÇnÇes;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des PyrÇnÇes Orientales;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Rhìne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale de la Haute Saìne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de Saìne-et-Loire;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Sarthe;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Seine-Maritime;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Seine-et-Marne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Tarn;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Tarn-et-Garonne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Var;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture du Vaucluse;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la VendÇe;EPA;
+7;Septiäme chambre;Chambre dÇpartemenatale de la Haute Vienne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Vosges;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de l'Yonne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Guadeloupe;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Guyane;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Martinique;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la RÇunion;EPA;
+4;Quatriäme chambre;ECOLE NATIONALE SUPERIEURE DE LA POLICE DE SAINT-CYR AU MONT D'OR;EPA;ENSP
+1;Premiäre chambre;CAISSE DE LA DETTE PUBLIQUE (EX : CAISSE D'AMORTISSEMENT DE LA DETTE PUBLIQUE);EPA;CDP
+7;Septiäme chambre;Chambre rÇgionale de Poitou Charentes;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Somme;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Vienne;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Charente Maritime;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Charente;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture des Deux-Sävres;EPA;
+7;Septiäme chambre;Organisme inter-Çtablissement du rÇseau des Chambres d'agriculture- ferme expÇrimentale des Bordes;EP;OIER-SUACI
+1;Premiäre chambre;TRESORERIE GENERALE DE L'ASSISTANCE PUBLIQUE A PARIS                                                                                                                                                                                                      ;;
+4;Quatriäme chambre;DSFIPE - CONTROLEUR BUDGETAIRE ET COMPTABLE DU MINISTERE DES AFFAIRES ETRANGERES ET EUROPEENNES                                                                                                                                                   ;;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Haute-Corse;EPA;
+7;Septiäme chambre;Chambre dÇpartementale d'agriculture de la Corräze;EPA;
+7;Septiäme chambre;Chambre interdÇpartementale d'agriculture de l'Ile-de-France;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture d'Aquitaine;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture d'Auvergne;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Bourgogne;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Bretagne;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture du Centre;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Champagne-Ardenne;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Franche-ComtÇ;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Corse;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture du languedoc-Roussillon;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture du Limousin;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Lorraine;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Midi-PyrÇnÇes;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Normandie;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture des Pays de la Loire;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Picardie;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Provence-Alpes-Cìte d'Azur;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Rhìne-Alpes;EPA;
+7;Septiäme chambre;Chambre rÇgionale d'agriculture de Seine-et-Marne;EPA;
+5;Cinquiäme chambre;AGENCE NATIONALE POUR L'INDEMNISATION DES FRANCAIS D'OUTRE MER;EPA;ANIFOM
+7;Septiäme chambre;Ecole nationale vÇtÇrinaire d'Alfort;EPA;ENVA
+7;Septiäme chambre;AssemblÇe permanente des chambres d'agriculture;EPA;APCA
+3;Troisiäme chambre;Institut national de la recherche agronomique ;EPST;INRA
+7;Septiäme chambre;Institut national de l'origine et de la qualitÇ (ex Institut national  des appellations d?origine contrìlÇe);EPA;INAO
+2;Deuxiäme chambre;TSA                                                                                                                                                                                                                 ;;TSA
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires des Antilles et de la Guyane;EPA;CROUS
+2;Deuxiäme chambre;Groupement industriel des armements terrestres - Industries;;GIAT
+1;Premiäre chambre;CAISSE DES DEPOTS ET CONSIGNATIONS (CDC);;CDC
+7;Septiäme chambre;LE GRAND PORT MARITIME DE DUNKERQUE (EPIC);EPIC;GPMD
+7;Septiäme chambre;"Service d?utilitÇ agricole Ö compÇtence interdÇpartementale (SUACI) ""Montagn'Alpes"" ";EP;SUACI
+7;Septiäme chambre;Parc national de la Guadeloupe;EPA;PNG
+3;Troisiäme chambre;Radio France, sociÇtÇ nationale de radiodiffusion sonore;;RADIO-FRANCE
+3;Troisiäme chambre;Institut national de l'audiovisuel;EPIC;INA
+2;Deuxiäme chambre;Ecole nationale supÇrieure des mines de Saint-Etienne (Mines Saint-Etienne);EPA;ENSMSE
+2;Deuxiäme chambre;Ecole nationale supÇrieure des mines de Paris (Mines ParisTech);EPA;ENSMP
+2;Deuxiäme chambre;Ecole nationale supÇrieure des mines d'Aläs (Mines Aläs);EPA;ENSMA - ENSTIM
+2;Deuxiäme chambre;Ecole nationale supÇrieure des mines de Douai (Mines Douai);EPA;ENSMD - ENSTIM
+2;Deuxiäme chambre;Ecole nationale supÇrieure des mines de Nantes (Mines Nantes);EPA;ENSMN - ENSTIM
+7;Septiäme chambre;Organisme interÇtablissement du rÇseau des chambres d'agriculture Centre d'Çlevage de Poisy Lucien Biset (Centre d'Çlevage de Poisy Lucien Biset);OIER - EPE;
+1;Premiäre chambre;La Poste;;POSTE
+7;Septiäme chambre;Centre d'Çlevage des Palmipädes du Sud-Ouest;EPE;CEPSO
+3;Troisiäme chambre;Chancellerie des universitÇs de l'acadÇmie de CrÇteil;EPA;
+3;Troisiäme chambre;ECOLE NORMALE SUPERIEURE DE CACHAN(EN 2011 DEVIENT UN EPCS DECRET DU 05/01/2011 N¯2011-21) (A COMPTER DU 01/01/2014 TRANSFORMATION DE L'ANTENNE DE BRETAGNE DE L'ECOLE NORMALE SUPERIEURE DE CACHAN EN UNE ECOLE NORMALE SUPERIEURE DE RENNES ID 6114);EPSCP;ENSC
+7;Septiäme chambre;Service interdÇpartemental pour l'animation du Massif central;;SIDAM
+5;Cinquiäme chambre;CAISSE DE GARANTIE DU LOGEMENT LOCATIF SOCIAL (EX. CAISSE DE GARANTIE DU LOGEMENT SOCIAL);EPA;CGLLS
+3;Troisiäme chambre;êcole franáaise d'Athänes ;EPSCP;EFAA
+3;Troisiäme chambre;Centre national des ?uvres universitaires et scolaires ;EPA;CNOUS
+2;Deuxiäme chambre;AGENCE COMPTABLE DU COMPTE DE COMMERCE APPROVISIONNEMENT DES ARMEES EN PRODUITS PETROLIERS                                                                                                                                                                ;;
+5;Cinquiäme chambre;"Service national d'accueil tÇlÇphonique pour l'enfance maltraitÇe (GIP Enfance maltraitÇe) (SNATEM)
+Enfance en Danger";GIP;SNATEM
+3;Troisiäme chambre;Centre rÇgional des ?uvres universitaires et scolaires de Versailles;EPA;CROUS
+7;Septiäme chambre;Voies navigables de France;EPA;VNF
+7;Septiäme chambre;BUDGET ANNEXE DE L'AVIATION CIVILE - CONTROLE EXPLOITATION AERIENS                                                                                                                                                                                        ;;BACEA
+4;Quatriäme chambre;CIRCONSCRIPTION D'ALO (TERRITOIRE DE WALLIS ET FUTUNA);;CA
+4;Quatriäme chambre;Circonscription d'Uvea (Territoire de Wallis et Futuna);;CU
+4;Quatriäme chambre;TERRITOIRE DES ILES WALLIS ET FUTUNA;;TIWF
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de Versailles ;EPA;
+4;Quatriäme chambre;CIRCONSCRIPTION DE SIGAVE (TERRITOIRE DE WALLIS ET FUTUNA);;CS
+7;Septiäme chambre;Agence de l'environnement et de la maåtrise de l'Çnergie;EPIC;ADEME
+2;Deuxiäme chambre;Office national des anciens combattants et victimes de guerre de PondichÇry ;;ONACPOND
+4;Quatriäme chambre;TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (TERRITOIRE D'OUTRE-MER);;TAAF
+3;Troisiäme chambre;êcole centrale de Nantes ;EPSCP;ECN
+1;Premiäre chambre;PAIERIE DES ILES WALLIS ET FUTUNA                                                                                                                                                                                                                         ;;
+7;Septiäme chambre;Institut national de l'environnement industriel et des risques;EPIC;INERIS
+1;Premiäre chambre;TRESORERIE GENERALE DES CREANCES SPECIALES DU TRESOR                                                                                                                                                                                                      ;;TGCST
+2;Deuxiäme chambre;Ecole nationale supÇrieure des mines d'Albi-Carmaux (Mines Albi-Carmaux);EPA;ENSMAC - ENSTIM
+4;Quatriäme chambre;Institut d'Çmission d'outre-mer;;IEOM
+4;Quatriäme chambre;Institut d'Çmission des dÇpartements d'outre-mer;;IEDOM
+3;Troisiäme chambre;Institut national des sciences appliquÇes de Rouen ;EPSCP;INSAROUEN
+3;Troisiäme chambre;UniversitÇ de Bordeaux III;EPSCP;UNIVERSITE
+3;Troisiäme chambre;OpÇra national de Paris ;EPIC;ONP
+3;Troisiäme chambre;INSTITUT D'ETUDES POLITIQUES DE RENNES;EPA;IEP
+3;Troisiäme chambre;êtablissement public du musÇe du Louvre ;EPA;EPML
+3;Troisiäme chambre;êtablissement public de la citÇ de la musique - Philharmonie de Paris;EPIC;EPCM
+3;Troisiäme chambre;ETABLISSEMENT PUBLIC DU PARC ET DE LA GRANDE HALLE DE LA VILLETTE;EPIC;EPPGHV
+3;Troisiäme chambre;êcole nationale supÇrieure de l'Çlectronique et ses applications ;EPA;ENSEA
+1;Premiäre chambre;La Franáaise des jeuxˇ;;FDJ
+3;Troisiäme chambre;Institut franáais polaire Paul êmile Victor ;GIP;IPEV
+4;Quatriäme chambre;Agence franáaise de dÇveloppement;;AFD
+3;Troisiäme chambre;Institut national des langues et civilisations orientales ;EPSCP;INALCO
+4;Quatriäme chambre;AGENCE POUR L'ENSEIGNEMENT FRANCAIS A L'ETRANGER;EPA;AEFE
+2;Deuxiäme chambre;Institution nationale des invalides;EPA;INI
+2;Deuxiäme chambre;MusÇe de l'air et de l'espace du Bourget ;EPA;MUSAE
+3;Troisiäme chambre;INSTITUT DE PHYSIQUE DU GLOBE;EPSCP;IPG
+3;Troisiäme chambre;Bibliothäque nationale de France ;EPA;BNF
+3;Troisiäme chambre;Institut national du patrimoine;EPA;INP
+5;Cinquiäme chambre;MISSION LOCALE POUR L'INSERTION SOCIALE ET PROFESSIONNELLE DES JEUNES DE LIMOGES (GIP);GIP;MLIJ
+3;Troisiäme chambre;CENTRE NATIONAL DU LIVRE;EPA;CNL
+5;Cinquiäme chambre;GIP International  (Pour le dÇveloppement de l'assistance technique et de la coopÇration internationale dans le domaine du travail, de l'emploi et de la formation professionnelle) ;GIP;GIP INTER
+3;Troisiäme chambre;RÇseau national de tÇlÇcom pour la technologie, l'enseignement et la recherche Renater (GIP);GIP;RENATER
+6;Sixiäme chambre;Observatoire franáais des drogues et toxicomanies;EPA;OFDT
+3;Troisiäme chambre;GIP Ecofor - Ecosystämes forestiers;GIP;ECOFOR
+5;Cinquiäme chambre;Habitat et interventions sociales pour les mal logÇs et les sans-abri de l'Ile-de-France;GIP;HISSA
+7;Septiäme chambre;METEO FRANCE;EPA;MF
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LOIR ET CHER (GIP);GIP;CDAD
+4;Quatriäme chambre;Conseil dÇpartemental d'accäs au droit de la Meuse;GIP;CDAD
+3;Troisiäme chambre;êcole nationale supÇrieure Louis Lumiäre;EPA;ENSLL
+3;Troisiäme chambre;êcole nationale supÇrieure des arts et techniques du thÇÉtre ;EPA;ENSATT
+6;Sixiäme chambre;INSTITUT NATIONAL DE LA TRANSFUSION SANGUINE (GIP);GIP;INTS
+2;Deuxiäme chambre;êcole nationale supÇrieure de techniques avancÇes ;EPA;ENSTA
+2;Deuxiäme chambre;Ecole nationale supÇrieure de techniques avancÇes ENSTA Bretagne ;;ENSTA
+6;Sixiäme chambre;Agence de la biomÇdecine;EPA;ABIO
+3;Troisiäme chambre;ComÇdie franáaise;EPIC;CF
+3;Troisiäme chambre;êcole nationale supÇrieure d'arts et mÇtiers ;EPSCP;ENSAM
+4;Quatriäme chambre;"Conseil dÇpartemental de l'accäs au droit de la Niävre"" (ex :Conseil dÇpartemental de l'aide juridique de la Niävre)";GIP;CDAD
+7;Septiäme chambre;Ecole nationale des ponts et chaussÇes;EPSCP;ENPC
+2;Deuxiäme chambre;Institut de gestion sociale des armÇes;;IGESA
+3;Troisiäme chambre;êtablissement public du musÇe et du domaine national de Versailles ;EPA;EPMDNV
+1;Premiäre chambre;Imprimerie Nationale;;IN
+5;Cinquiäme chambre;Grand projet urbain du Val d'Argent Ö Argenteuil ;GIP;GPUVA
+3;Troisiäme chambre;Institut d'administration des entreprises de Paris ;EPA;IAEP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'ALLIER (GIP);GIP;CDAD
+6;Sixiäme chambre;Fonds de solidaritÇ vieillesse;EPA;FSV
+5;Cinquiäme chambre;CENTRE REGIONAL DE RESSOURCES PEDAGOGIQUES ET DE DEVELOPPEMENT DE LA QUALITE DE LA FORMATION (GIP);GIP;C2RP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE MEURTHE ET MOSELLE (GIP);GIP;CDAD
+4;Quatriäme chambre;Institut franáais du Royuame-Uni de Londres ;;IFRU
+7;Septiäme chambre;Ecole nationale supÇrieure du paysage de Versailles;EPA;ENSP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA GUYANE (GIP);GIP;CDAD
+7;Septiäme chambre;Atelier technique des espaces naturels (GIP);GIP;ATEN
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL DE L'ACCES AU DROIT DE L'ISERE (GIP);GIP;CDAD
+4;Quatriäme chambre;ETABLISSEMENT PUBLIC DE SANTE NATIONAL DE FRESNES;EPA;EPSNF
+2;Deuxiäme chambre;Agence nationale pour la gestion des dÇchets radioactifs;;ANDRA
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU MAINE-ET-LOIRE (EX : CONSEIL DEPARTEMENTAL DE L'AIDE JUR;GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL DE L'ACCES AU DROIT DE L'ORNE (GIP);GIP;CDAD / CADJ
+6;Sixiäme chambre;INSTITUT DE FORMATION AUX CARRIERES ADMINISTRATIVES SANITAIRES ET SOCIALES (GIP);;IFCASS
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'OISE (EX: CONSEIL DEPARTEMENTAL DE L'AIDE JURIDIQUE) (G;GIP;CDAD
+6;Sixiäme chambre;Caisse d'amortissement de la dette sociale;EPA;CADES
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU CHER (EX: CONSEIL DEPARTEMENTAL DE L'AIDE JURIDIQUE) (GIP;GIP;CDAD
+1;Premiäre chambre;Etablissement public de financement et de restructuration ;EPA;EPFR
+2;Deuxiäme chambre;INSTITUT MINES-TELECOM (EX INSTITUT TELECOM - EX GROUPE DES ECOLES DES TELECOMMUNICATIONS) CHANGEMENT DE NOM ET DE STATUT (EPA EN EPCS) DECRET 2012-279);EPSCP;GET IF IMT
+7;Septiäme chambre;Institut national de formation des personnels du ministäre de l'agriculture;EPA;INFOMA
+2;Deuxiäme chambre;Agence nationale des frÇquences ;EPA;ANFR
+3;Troisiäme chambre;êtablissement public d'amÇnagement universitaire de la rÇgion ◊le-de-France ;EPA;EPAURIF
+2;Deuxiäme chambre;ETABLISSEMENT PUBLIC  D'AMENAGEMENT ET DE RESTRUCTURATION DES ESPACES COMMERCIAUX ET ARTISANAUX;EPIC;EPARECA
+4;Quatriäme chambre;Institut Franáais d'Espagne ;;IFM
+4;Quatriäme chambre;INSTITUT DES HAUTES ETUDES DE DEFENSE NATIONALE;EPA;IHEDN
+3;Troisiäme chambre;Chancellerie de l'acadÇmie de Guyane ;EPA;CAG
+3;Troisiäme chambre;Chancellerie de l'universitÇ de Martinique ;EPA;CAM
+3;Troisiäme chambre;Chancellerie de l'universitÇ de l'acadÇmie de Guadeloupe;EPA;CAG
+3;Troisiäme chambre;UNIVERSITE DE CERGY PONTOISE;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE D'EVRY VAL D'ESSONNE;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE DE MARNE LA VALLEE;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE DE VERSAILLES SAINT-QUENTIN EN YVELINES;EPSCP;UNIVERSITE
+3;Troisiäme chambre;OpÇrateur de patrimoine et des projets immobiliers de la culture ;EPA;OPPIC EMOC
+3;Troisiäme chambre;Centre national de la danse;EPIC;CND
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU VAL DE MARNE (GIP);GIP;CDAD
+3;Troisiäme chambre;êcole nationale supÇrieure des mÇtiers de l'image et du son ;EPA;FEMIS
+5;Cinquiäme chambre;CENTRE EUROPEEN DE FORMATION CONTINUE MARITIME DE CONCARNEAU (GIP);GIP;FCIP / CEFCM
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU TARN (GIP);GIP;CDAD
+4;Quatriäme chambre;Institut Franáais du Japon (ex institut franco-japonais de Tokyo);EDCE;IFJT
+4;Quatriäme chambre;INSTITUT FRANCAIS DE CHINE                                                                                                                                                                                        ;;IFC
+3;Troisiäme chambre;êcole du Louvre ;EPA;ECLOUVRE
+7;Septiäme chambre;SNCF RÇseau;;SNCFR
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA SOMME  (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU PAS-DE-CALAIS (GIP);GIP;CDAD
+6;Sixiäme chambre;Institut de Veille Sanitaire;EPA;IVS
+3;Troisiäme chambre;UNIVERSITE DE LA NOUVELLE CALEDONIE;EPSCP;UNIVERSITE
+4;Quatriäme chambre;Conseil dÇpartemental d'accäs au droit du Val-d'Oise ;GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'YONNE (GIP);GIP;CDAD
+3;Troisiäme chambre;CENTRE DES MONUMENTS NATIONAUX;EPA;CMN
+3;Troisiäme chambre;INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT (EX ORSTOM);EPST;IRD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE VAUCLUSE (GIP);GIP;CDAD
+3;Troisiäme chambre;Groupement d'intÇràt public  Agence Erasmus+France/Education Formation ex AGENCE EUROPE EDUCATION FORMATION FRANCE ;GIP;A2E2F
+5;Cinquiäme chambre;"GIP ""CORSE COMPETENCES "" (ANCIENNEMENT GESTION DES OUTILS DE L'ENVIRONNEMENT DE L'EMPLOI ET DE LA FORMATION EN CORSE)";GIP;OREF
+5;Cinquiäme chambre;CENTRE REGIONAL DE RESSOURCES POUR LES ACTEURS DE LA COHESION SOCIALE EN MIDI-PYRENEES RESSOURCES ET TERRITOIRES GIP;GIP;CRRPV
+6;Sixiäme chambre;Etablissement franáais du sang ;EPIC;EFS
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU VAR  (GIP);GIP;CDAD
+5;Cinquiäme chambre;AGENCE NATIONALE DE LUTTE CONTRE L'ILLETTRISME (GIP);GIP;ANLCI
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA HAUTE-GARONNE (GIP );GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA CREUSE (GIP);GIP;CDAD
+2;Deuxiäme chambre;Fonds national de promotion et de communication de l'artisanat ;EPA;FNPCA
+3;Troisiäme chambre;êtablissement public du musÇe du Quai Branly ;EPA;MQB
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES PYRENEES ATLANTIQUES (GIP);GIP;CDAD
+1;Premiäre chambre;Masse des douanes;EPA;EPMD
+6;Sixiäme chambre;Fonds de financement de la protection complÇmentaire de la couverture universelle du risque maladie;EPA;FFPCCURM
+7;Septiäme chambre;Agence franáaise pour le dÇveloppement et la promotion de l'agriculture biologique (agence Bio);GIP;ABIO
+2;Deuxiäme chambre;GEODERIS (GIP);GIP;GEODERIS 
+5;Cinquiäme chambre;FORMATION TOUT AU LONG DE LA VIE DE NANCY (GIP);GIP;
+3;Troisiäme chambre;Centre interdisciplinaire d'Çtudes et de recherches sur l'Allemagne ;GIP;CIERA
+6;Sixiäme chambre;Laboratoire franáais du fractionnement et des biotechnologies;;LFB
+3;Troisiäme chambre;Groupement pour la coordination nationale de la formation en microÇlectronique;GIP;CNFM
+4;Quatriäme chambre;AGENCE DES 50 PAS GEOMETRIQUES DE GUADELOUPE (EPIC);EPIC;A50PGG
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE LIMOGES (GIP);GIP;FCIP
+4;Quatriäme chambre;AGENCE DES 50 PAS  GEOMETRIQUES DE LA MARTINIQUE;EPIC;A50PGM
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'HERAULT (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU NORD (GIP);GIP;CDAD
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE  ALSACE  (GIP);GIP;FCIP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES YVELINES  (GIP);GIP;CDAD
+3;Troisiäme chambre;CICRP Belle de Mai ;GIP;CICRP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA LOIRE  (GIP);GIP;CDAD
+3;Troisiäme chambre;France TÇlÇvisionsˇ;;FT
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU LOIRET (GIP);GIP;CDAD
+3;Troisiäme chambre;Institut supÇrieur d'ingÇnierie de la conception de Saint-DiÇ-des-Vosges;GIP; INSIC
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE TOULOUSE (GIP);GIP;FCIP
+4;Quatriäme chambre;Conseil dÇpartemental d'accäs au droit de Loire-Atlantique;GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES HAUTES ALPES (GIP);GIP;CDAD
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE ROUEN (GIP);GIP;FCIP
+3;Troisiäme chambre;GIP êducation et formation tout au long de la vie Reims ;GIP;
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE CRETEIL (GIP);GIP;FCIP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT D'INDRE ET LOIRE (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA MOSELLE  (GIP);GIP;CDAD
+5;Cinquiäme chambre;CENTRE DE RESSOURCES REGIONAL DE LA POLITIQUE DE LA VILLE EN PACA (GIP);GIP;CRPV
+5;Cinquiäme chambre;RELATION EMPLOI FORMATION DE BRETAGNE GREF (GIP);GIP;GREF
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE SEINE-MARITIME (GIP);GIP;CDAD
+5;Cinquiäme chambre;EDUCATION ET FORMATION TOUT AU LONG DE LA VIE DE LILLE (GIP);GIP;FCIP
+5;Cinquiäme chambre;ACADEMIQUE DANS LES DOMAINES DE LA FORMATION ET DE L'INSERTION PROFESSIONNELLE AIX - MARSEILLE (GIP);GIP;FCIP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU PUY DE DOME (GIP);GIP;CDAD
+4;Quatriäme chambre;ECOLE NATIONALE DE L'ADMINISTRATION PENITENTIAIRE;EPA;ENAP
+5;Cinquiäme chambre;GIP FORMATION TOUT AU LONG DE LA VIE - INSERTION PROFESSIONNELLE ( ANCIENNEMENT FCIP ACADEMIE D'ORLEANS TOURS);;FCIP
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE RENNES (GIP);GIP;FCIP
+5;Cinquiäme chambre;ACADEMIE POUR LA PROMOTION DE LA FORMATION ADULTES L'INSERTION PROFESS ET LA VALIDATION -FORINVAL;;FORINVAL
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU LOT ET GARONNE  (GIP);GIP;CDAD
+5;Cinquiäme chambre;FORMATION ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE NICE  (GIP);GIP;FCIP
+2;Deuxiäme chambre;ETABLISSEMENT DE COMMUNICATION ET DE PRODUCTION AUDIOVISUELLE DE LA DEFENSE;EPA;ECPAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU GERS (GIP);GIP;CDAD
+5;Cinquiäme chambre;ACADEMIE DE LYON (GIPAL) (GIP);GIP;GIPAL
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE BASSE NORMANDIE (GIP);GIP;FCIP
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L`ACADEMIE DE LA MARTINIQUE (GIP);GIP;FCIP
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L`ACADEMIE DE VERSAILLES (GIP);GIP;FCIP
+5;Cinquiäme chambre;DISPOSITIF ACADEMIQUE D`INSERTION DE FORMATION ET D`INGENIERIE DE L`ACADEMIE DE GUADELOUPE (GIP);GIP;FCIP
+5;Cinquiäme chambre;"FORMATION DES ADULTES; VALIDATION; INSERTION; EDUCATION - DE MONTPELLIER (GIP)";GIP;FCIP / FORMAVIE
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L`ACADEMIE DE CORSE (GIP);GIP;FCIP / ACOR
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L`AUDE (GIP);GIP;CDAD
+5;Cinquiäme chambre;"GROUPEMENT D'INTERET PUBLIC FORMATION TOUT AU LONG DE LA VIE DE BOURGOGNE
+EX
+FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE BOURGOGNE (GIP)";GIP;FTLV
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE D'AQUITAINE (GIP);GIP;FCIP
+7;Septiäme chambre;Atelier du grand Paris et des projets architecturaux et urbains;GIP;"AGPPAU
+(anciennement EPAU)"
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE EXPERIENCE DE NANTES (GIP);;FCIP / EXPERIENCE
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE PARIS (GIP );GIP;FCIP
+5;Cinquiäme chambre;FORMATION CONTINUE ET INSERTION PROFESSIONNELLE D'AUVERGNE (GIP);;FCIP
+3;Troisiäme chambre;Institut national d?histoire de l?art ;EPSCP;INHA
+5;Cinquiäme chambre;GIP Formation continue et insertion professionnelle de l'acadÇmie de Poitiers (anciennement GIP acadÇmique de Poitiers - Agence de validation, d'insertion et de formation (AGEVIF) ;GIP;FCIP
+1;Premiäre chambre;ADETEF Assistance au dÇveloppement des Çchanges en technologies Çconomiques et financiäres;GIP;ADETEF
+3;Troisiäme chambre;Agence de mutualisation des universitÇs et des Çtablissements (AMUE) ;GIP;AMUE
+1;Premiäre chambre;DIRECTION DES GRANDES ENTREPRISES;;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA SAVOIE (GIP);GIP;CDAD
+2;Deuxiäme chambre;INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE (EPIC);EPIC;IRSN
+7;Septiäme chambre;Groupement d'intÇràt public Seine-Aval ;GIP;GIPSA
+3;Troisiäme chambre;UniversitÇ numÇrique francophone des sciences de la santÇ et du sport ;GIP;UNF3S
+3;Troisiäme chambre;Les grands ateliers de l'Isle-d'Abeau ;GIP;GAIA
+5;Cinquiäme chambre;Formation continue et insertion professionnelle de Franche-ComtÇ ;GIP;FCIP
+6;Sixiäme chambre;CENTRE INTERMINISTERIEL DE FORMATION ANTI DROGUES (GIP);GIP;CIFAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU TARN ET GARONNE (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA MARTINIQUE  (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA DROME (GIP);GIP;CDAD
+3;Troisiäme chambre;Bibliothäque universitaire des langues et civilisations;GIP;BUCS / BULAC
+4;Quatriäme chambre;AGENCE DE MAITRISE D'OUVRAGE DES TRAVAUX DU MINISTERE DE LA JUSTICE;EPA;AMOTMJ
+6;Sixiäme chambre;Agence technique de l'information sur l'hospitalisation;EPA;ATIH
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'INDRE (GIP);GIP;CDAD
+5;Cinquiäme chambre;FORMATION ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE GRENOBLE (GIP );GIP;FCIP / FIPAG
+3;Troisiäme chambre;Institut national de recherches archÇologiques prÇventives ;EPA;INRAP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'EURE (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU GARD (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA MARNE (GIP);GIP;CDAD
+3;Troisiäme chambre;Centre national de la chanson, des variÇtÇs et du jazz ;EPIC;CNCVJ
+3;Troisiäme chambre;UNIVERSITE POLYNESIE FRANCAISE;;UNIVERSITE
+6;Sixiäme chambre;Institut national de prÇvention et d'Çducation pour la santÇ;EPA;INPES
+6;Sixiäme chambre;RESEAU POUR LE DEPISTAGE DES CANCERS EN HAUTE-SAVOIE (GIP);GIP;
+5;Cinquiäme chambre;PROJET DE RENOUVELLEMENT URBAIN DE BOURGES (ANCIENNEMENT:RENOUVELLEMENT URBAIN DE BOURGES ) (GIP);GIP;
+5;Cinquiäme chambre;POLE RHONE ALPES DE L'ORIENTATION (GIP);GIP;PRAO
+2;Deuxiäme chambre;Business France;EPIC;BUSINESSFRANCE
+3;Troisiäme chambre;UNIVERSITE DE TECHNOLOGIE DE TROYES;EPSCP;UTT
+5;Cinquiäme chambre;ESPACE COMPETENCES (GIP);GIP;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU BAS RHIN (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'ARDECHE (GIP);GIP;CDAD
+3;Troisiäme chambre;êcole nationale supÇrieure d'art de Bourges ;EPA;ENSA
+1;Premiäre chambre;AUTORITE DES MARCHES FINANCIERS;API;AMF
+3;Troisiäme chambre;UNIVERSITE DE TECHNOLOGIE DE BELFORT-MONTBELIARD;EPSCP;UTBM
+3;Troisiäme chambre;êcole nationale supÇrieure d'art de Limoges Aubusson ;EPA;ENSA
+3;Troisiäme chambre;êcole nationale supÇrieure d'art de Dijon ;EPA;ENSA
+7;Septiäme chambre;France VÇtÇrinaire International;GIP;FVI
+7;Septiäme chambre;Centre national de la propriÇtÇ forestiäre;EPA;CNPF
+3;Troisiäme chambre;êcole nationale supÇrieure d'art de Cergy ;EPA;ENSAC
+3;Troisiäme chambre;êtablissement public administratif Villa Arson ;EPA;EPAVA
+2;Deuxiäme chambre;Direction des constructions navales services ;;DCNS
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA CORSE DU SUD (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA REUNION (GIP);GIP;CDAD
+4;Quatriäme chambre;AUTORITES D'INTERREG 3 SAARLAND MOSELLE-WESTPFALZ (GIP);GIP;INTERREG
+6;Sixiäme chambre;Agence de santÇ des territoires de Wallis et Futuna;EPA;ASTWF
+1;Premiäre chambre;FONDS DE RESERVE POUR LES RETRAITES;EPA;FRR
+3;Troisiäme chambre;êcole nationale supÇrieure d'art de Nancy;EPA;ENSA
+3;Troisiäme chambre;êcole centrale de Marseille ;;EGIM
+3;Troisiäme chambre;GIP Action culturelle en milieu scolaire d'Alsace;GIP;ACMISA
+3;Troisiäme chambre;CitÇ de l'architecture et du Patrimoine;EPIC;CiAP
+6;Sixiäme chambre;Institut national du cancer;;INCA
+6;Sixiäme chambre;Ecole nationale supÇrieur de sÇcuritÇ sociale;EPA;EN3S
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES DEUX SEVRES (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'AIN GIP;GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'AISNE (GIP);GIP;CDAD
+3;Troisiäme chambre;MusÇe national des arts asiatiques Guimet ;EPA;MNAA
+4;Quatriäme chambre;ETABLISSEMENT PUBLIC DU PALAIS DE JUSTICE DE PARIS;EPA;EPPJP
+3;Troisiäme chambre;êtablissement public du musÇe d'Orsay et du musÇe de l'Orangerie ;EPA;EPMO
+3;Troisiäme chambre;êcole nationale supÇrieure de la photographie d'Arles ;EPA;ENSPH
+5;Cinquiäme chambre;INSTITUT NATIONAL DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE;EPA;INTEFP
+4;Quatriäme chambre;GIP FORMATION CADRES AVENIR;GIP;FCA
+4;Quatriäme chambre;INSTITUT NATIONAL DES HAUTES ETUDES DE SECURITE ET DE LA JUSTICE (DEPUIS 2009 NOUVELLE DENOMINATION);EPA;INHESJ
+4;Quatriäme chambre;ECOLE NATIONALE SUPERIEURE DES OFFICIERS DE SAPEURS POMPIERS;EPA;ENSOSP
+4;Quatriäme chambre;SociÇtÇ immobiliäre de la Guyane;;SIGUY
+5;Cinquiäme chambre;AGENCE NATIONALE POUR LA RENOVATION URBAINE;EPIC;ANRU
+5;Cinquiäme chambre;Caisse nationale de solidaritÇ pour l'autonomie ;EPA;CNSA
+3;Troisiäme chambre;Institut national supÇrieur de formation et de recherche pour l'Çducation des jeunes handicapÇs et les enseignements adaptÇs ;EPA;INSFREJHEA
+3;Troisiäme chambre;GIP RÇussite Çducative vigneusienne ;GIP;REUSEDUC
+7;Septiäme chambre;Centre ressource du dÇveloppement durable;GIP;CERDD
+6;Sixiäme chambre;Fonds d'indemnisation des victimes de l'amiante;EPA;FIVA
+6;Sixiäme chambre;Office national d'indemnisation des accidents mÇdicaux;EPA;ONIAM
+3;Troisiäme chambre;MusÇe national du sport ;EPA;MNS
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA HAUTE SAVOIE (GIP);GIP;CDAD
+6;Sixiäme chambre;HAUTE AUTORITE DE SANTE;API;HAS
+7;Septiäme chambre;CONTROLEUR BUDGETAIRE ET COMPTABLE DU MINISTERE DE L' AGRICULTURE, ALIMENTATION, PECHE ET AFFAIRES;;CBCM
+4;Quatriäme chambre;INSTITUT NATIONAL DE POLICE SCIENTIFIQUE;EPA;INPS
+2;Deuxiäme chambre;AGENCE NATIONALE POUR LA GARANTIE DES DROITS DES MINEURS;EPA;ANGDM
+3;Troisiäme chambre;THEATRE NATIONAL DE L'OPERA COMIQUE;EPIC;TNOC
+3;Troisiäme chambre;Domaine national de Chambord ;EPIC;DNCH
+1;Premiäre chambre;Etablissement public BPI-Groupe;;BPI-OSEO
+5;Cinquiäme chambre;GIP Formation continue et insertion professionnelle de l'acadÇmie de La RÇunion ;GIP;FCIP
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE PARIS (GIP) VOIR N¯ 4165;GIP;CDAD
+6;Sixiäme chambre;Etablissement de retraite additionnelle de la fonction publique;EPA;ERAFP
+7;Septiäme chambre;ETABLISSEMENT PUBLIC DE SECURITE FERROVIAIRE;EPA;EPSF
+5;Cinquiäme chambre;Agence franáaise de l'adoption ;GIP;AFA
+3;Troisiäme chambre;ECOLE NATIONALE SUPERIEURE D'INFORMATIQUE POUR L'INDUSTRIE ET L'ENTREPRISE ( ENSIIE );EPA;ENSIIE
+5;Cinquiäme chambre;Agence nationale pour la cohÇsion sociale et l'ÇgalitÇ des chances   (EX FASILD -ID N¯83);EPA;ACSE
+7;Septiäme chambre;Parcs nationaux de France;EPA;PNF
+7;Septiäme chambre;PORT RHENAN DE COLMAR NEUF BRISACH;;PRCNB
+6;Sixiäme chambre;GIP CPAGE;;CPAGE 
+6;Sixiäme chambre;CYCLOTRON REUNION OCEAN INDIEN;GIP;CYROI
+3;Troisiäme chambre;RÇussite Çducative Ö Paris ;GIP;REUSEDUC
+3;Troisiäme chambre;Centre technique du livre de l'enseignement supÇrieur;EPA;CTLES
+3;Troisiäme chambre;CitÇ de l'histoire de l'immigration et de l'aquarium (Çtablissement public palais de la porte dorÇe);EPA;CNHI
+7;Septiäme chambre;Institut national d'Çtudes supÇrieures agronomiques de Montpellier (Montpellier SupAgro);EPSCP;CIESSA
+7;Septiäme chambre;Institut national des sciences et industries du vivant et de l'environnement (Agro Paris Tech);EPSCP;AGROPARISTECH
+3;Troisiäme chambre;Conseil supÇrieur de l'audiovisuel;AAI-PM;CSA
+3;Troisiäme chambre;Agence franáaise de lutte contre le dopage  ;API;AFLD
+3;Troisiäme chambre;CENTRE NATIONAL POUR LE DEVELOPPEMENT DU SPORT;EPA;CNDS
+7;Septiäme chambre;Grand port maritime de La Rochelle;EPIC;GPMR
+7;Septiäme chambre;ECOLE NATIONALE DES TRAVAUX PUBLICS DE  L'ETAT;EPSCP;ENTPE
+7;Septiäme chambre;Agence des aires marines protÇgÇes ;EPA;AAMP
+3;Troisiäme chambre;AcadÇmie des technologies ;EPA;ACATECH
+3;Troisiäme chambre;AcadÇmie des beaux-arts ;;ACABA
+3;Troisiäme chambre;AcadÇmie des sciences (VOIR ID 1795 - UN SEUL ET MEME COMPTE AVEC ID 5212-5213-5214-5215);;ACAS
+3;Troisiäme chambre;ACADEMIE DES INSCRIPTIONS ET BELLES LETTRES (VOIR ID 1795 - UN SEUL ET MEME COMPTE AVEC ID 5212-5213-5214-5215);;ACAIBL
+3;Troisiäme chambre;ACADEMIE DES SCIENCES MORALES ET POLITIQUES (VOIR ID 1795 - UN SEUL ET MEME COMPTE AVEC ID 5212-5213-5214-5215);;ACASMP
+7;Septiäme chambre;AGENCE DE FINANCEMENT DES INFRASTRUCTURES DE TRANSPORT DE FRANCE;EPA;AFITF
+5;Cinquiäme chambre;êtablissement public d'insertion de la dÇfense ;EPA;EPIDE
+1;Premiäre chambre;Monnaie de Paris;EPIC;MDP
+7;Septiäme chambre;Parc national amazonien de Guyane;EPA;PNAG
+6;Sixiäme chambre;DEPISTAGE DES CANCERS EN ARIEGE ( GIP );GIP;
+3;Troisiäme chambre;REUSSITE EDUCATIVE HEROUVILLAIS (GIP);GIP;REUSEDUC
+3;Troisiäme chambre;Groupement d'intÇràt public caennais rÇussite Çducative;GIP;REUSEDUC
+7;Septiäme chambre;Parc national de la RÇunion;EPA;PNARE
+3;Troisiäme chambre;Institut des hautes Çtudes pour la science et la technologie ;EPA;IHEST
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ fÇdÇrale de Toulouse Midi-PyrÇnÇes (COMUE) ;EPA-EPSCP;UFTMP
+3;Troisiäme chambre;Comue UniversitÇ europÇenne de Bretagne (PRES);EPA-EPCS;UEB
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ Paris-Est (COMUE);EPA-EPCS;UPE
+3;Troisiäme chambre;"CommunautÇ d'universitÇs et Çtablissements d'Aquitaine (COMUE)
+EX UNIVERSITE DE BORDEAUX (PRES)";EPA-EPCS;UB
+3;Troisiäme chambre;"
+CommunautÇs d'universitÇs et Çtablissements UniversitÇ de Lyon (COMUE)
+
+EX POLE DE RECHERCHE ET D'ENSEIGNEMENT SUPERIEUR UNIVERSITE DE LYON";EPA-EPCS;UL
+3;Troisiäme chambre;"INSTITUT DES SCIENCES ET TECHNOLOGIES DE PARIS "" PARIS TECH""(PRES)";EPA-EPCS;PARIS TECH
+5;Cinquiäme chambre;Fonds pour l'insertion des personnes handicapÇes dans la fonction publique ( FIPHFP );EPA;FIPHFP
+4;Quatriäme chambre;CONTROLEUR BUDGETAIRE ET COMPTABLE DU MINISTERE DE L'INTERIEUR, DE L'OUTRE-MER ET COLLECTIVITES TE;;CBCM
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE MEDICO SOCIAL DE SAINTONGE - LABORATOIRE INTER-HOSPITALIER;GCSMS;GCSMS
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE SANT'HAINAUT - CENTRE HOSPITALIER DE VALENCIENNES - CLINIQUE TE;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DU POLE BLANCHISSERIE DU PRE-BOCAGE A LA VIRE;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE UNION DES HOPITAUX POUR LES ACHATS U.N.I.H.A.;GCS;
+7;Septiäme chambre;Office national de l'eau et des milieux aquatiques;EPA;ONEMA
+6;Sixiäme chambre;Etablissement de prÇparation et de rÇponse aux urgence sanitaires;EPA;EPRUS
+3;Troisiäme chambre;Agence nationale de la recherche;EPA;ANR
+3;Troisiäme chambre;Centre de recherche du chÉteau de Versailles ;GIP;
+7;Septiäme chambre;Bretagne environnement;GIP;
+2;Deuxiäme chambre;INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L' ESPACE;EPSCP;ISAE
+2;Deuxiäme chambre;MÇdiateur national de l'Çnergie;API;MNE
+7;Septiäme chambre;Maison rÇgionale de la foràt et du bois Champagne-Ardenne;GIP;
+7;Septiäme chambre;pour le dÇveloppement de la coopÇration internationale dans les domaines de l'agriculture, de l'alimentation et des espaces ruraux;GIP;ADECIA
+5;Cinquiäme chambre;Agence nationale de l'Çvaluation et de la qualitÇ des Çtablissements et des services sociaux et mÇdico-sociaux  (TRANFERT DE LA 6 A LA 5 EME CHAMBRE EN 2011);GIP;ANESM
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE MEDECINE NUCLEAIRE DU HAVRE (GCS );GIP;
+1;Premiäre chambre;SociÇtÇ de valorisation fonciäre et immobiliäre ;;SOVAFIM
+6;Sixiäme chambre;Etablissement public national de financement des retraites de la poste;EPA;EPNFRLP
+1;Premiäre chambre;CONTROLEUR BUDGETAIRE ET COMPTABLE DU MINISTERE DU BUDGET, DES COMPTES PUBLICS ET DE LA FONCTION P / contrìleur budgÇtaire et comptable des ministäres Çconomiques et financiers;;CBCM
+6;Sixiäme chambre;CANCEROPOLE ILE DE FRANCE (GIP);GIP;CPIDF
+7;Septiäme chambre;Etablissement Public d'amÇnagement  Orly-Rungis-Seine amont;EPIC;EPAORSA
+4;Quatriäme chambre;AGENCE NATIONALE DES TITRES SECURISEES;EPA;ANTS
+2;Deuxiäme chambre;Service hydrographique et ocÇanographique de la Marine ;EPA;SHOM
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE , GROUPEMENT HOSPITALIER EST REUNION ( GCS );GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DE HAUTE COTE D'OR (GCS);GCS;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES LANDES (GIP);GIP;CDAD
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE CENTRE ETOILE;GCS;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DU MORBIHAN (GIP);GIP;CDAD
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES ALPES-DE -HAUTE-PROVENCE (GIP);GIP;CDAD
+3;Troisiäme chambre;GIP RÇussite Çducative Valenciennes mÇtropole ;GIP;REUSEDUC
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE NORD ESSONNE (ANCIENNEMENT DE LONGJUMEAU/ORSAY )( GCS );GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE D'IMAGERIE MEDICALE DE DECAZEVILLE (GCS);GCS;
+1;Premiäre chambre;GIP POUR LA RECONSTITUTION DES TITRES DE PROPRIETE EN CORSE;;GIRTEC
+5;Cinquiäme chambre;GIP Formation continue et insertion professionnelle de Guyane ;GIP;FCIP
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire :"" clinique universitaire du cancer""";GCS;
+3;Troisiäme chambre;contrìleur budgÇtaire et comptable ministÇriel de l'Çducation nationale, de l'enseignement supÇrieur et de la recherche                                                                                                                                                                               ;;CBCM
+3;Troisiäme chambre;contrìleur budgÇtaire et comptable ministÇriel  de la culture et de la communication                                                                                                                                                              ;;CBCM
+4;Quatriäme chambre;Contrìleur budgÇtaire et comptable ministÇriel des services du premier ministre;;CBCM
+5;Cinquiäme chambre;Contrìleur budgÇtaire et comptable du ministäre du travail, des relations sociales et solidaritÇ ;;CBCM
+7;Septiäme chambre;CONTROLEUR BUDGETAIRE ET COMPTABLE DU MINISTERE DE L'ECOLOGIE DE L'ENERGIE DU DEVOLOPPEMENT DURABLE;;CBCM
+4;Quatriäme chambre;CONTROLEUR BUGETAIRE ET COMPTABLE DU MINISTERE DE LA JUSTICE;;CBCM
+3;Troisiäme chambre;GIP RÇussite Çducative de Bordeaux;GIP;REUSEDUC
+6;Sixiäme chambre;CONTROLEUR BUDGETAIRE ET COMPTABLE  DU MINISTERE DE LA SANTE, DE LA JEUNESSE ET DES SPORTS                                                                                                                                                                ;;CBCM
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE SAONE ET LOIRE (GIP);GIP;CDAD
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIREPHARMACIE DES ETABLISSEMENTS SANITAIRES ET MEDICO-SOCIAUX DU NORD FRANCHE COMTE
+ex
+GROUPEMENT DE COOPERATION SANITAIRE DU TERRITOIRE DE BELFORT ""PHARMACIE DES EHPAD DU TERRITOIRE DE BELFORT""";GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE G4 - GROUPEMENT DES CHU D'AMIENS, CAEN, LILLE, ROUEN;GCS;
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale du centre de Picardie  (GCSMS);GCSMS;
+7;Septiäme chambre;Institut national supÇrieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (AGROCAMPUS OUEST) ;EPSCP;AGROCAMPUS OUEST
+1;Premiäre chambre;COMPTABLE SPECIALISE DU DOMAINE;;CSDOM
+2;Deuxiäme chambre;CONTROLEUR BUDGETAIRE ET COMPTABLE DE LA TRESORERIE AUX ARMEES;;CBCM
+5;Cinquiäme chambre;Maison de l'emploi de Valenciennes mÇtropole ;GIP;MEVM
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" RESEAU REGIONAL DE L'AIDE MEDICALE URGENTE HAUTE NORMANDIE """;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" PHARE """;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" BAIE DE SOMME """;;
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale des Collines VendÇennes;GCSMS;
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale des Ehpad de VendÇe;GCSMS;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AUX DROITS DES COTES D'ARMOR;GIP;CDAD
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DES ETABLISSEMENTS DE SANTE DU ROANNAIS;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE DE ""PAIMPOL GO”LO""";GCS;
+6;Sixiäme chambre;Groupement de coopÇration sanitaire pìle de santÇ d'Arcachon;GCS;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DES PYRENEES ORIENTALES;GIP;CDAD
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" PHARMACIE INTERHOSPITALIERE D'OBERNAI """;GCS;
+6;Sixiäme chambre;"GCS "" GROUPEMENT DE COOPERATION EN ONCOLOGIE ET RADIOTHERAPIE """;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" LES HOPITAUX A VOTRE DOMICILE """;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" CITE SANITAIRE NAZAIRIENNE """;GCS;
+6;Sixiäme chambre;Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitaliäre;EPA;CNGPHP
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire de moyens du groupe hospitalier de l'Est Francilien (GHEF)
+EX GROUPEMENT  DE COOPERATION SANITAIRE DES HOPITAUX DU NORD SEINE ET MARNE";GCS;GHEF
+5;Cinquiäme chambre;Centre de ressources emploi formation de Haute-Normandie ;GIP;CREFOR
+3;Troisiäme chambre;êtablissement public de coopÇration culturelle Bibracte ;;CAE
+5;Cinquiäme chambre;GIP Centre de ressources de la cohÇsion sociale urbaine de la RÇunion;GIP;
+7;Septiäme chambre;RÇserve nationale marine de La RÇunion;GIP;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""RESEAU DE PROMOTION POUR LA SANTE MENTALE DANS LES YVELINES""";GCS;
+3;Troisiäme chambre;êtablissement public de coopÇration scientifique UniversitÇ Nantes-Angers-Le-Mans (PRES);;UNAL
+3;Troisiäme chambre;UniversitÇ de Strasbourg  ;;US
+6;Sixiäme chambre;Groupement de coopÇration sanitaire du Pays de Retz;GCS;
+4;Quatriäme chambre;ETABLISSEMENT PUBLIC D'EXPLOITATION DU LIVRE FONCIER INFORMATISE D'ALSACE-MOSELLE (GIP DEVENU EPA);EPA;EPELFI
+3;Troisiäme chambre;"CommunautÇ d'universitÇs et Çtablissements ""Lille Nord de France"" (COMUE)  ";EPA-EPCS;ULNF
+6;Sixiäme chambre;DEPISTAGE DES CANCERS DANS LE TARN ET GARONNE GIP;GIP;
+1;Premiäre chambre;SociÇtÇ de prise de participation de l'Etat  - Agence des participations de l'Etat;;SPPE
+6;Sixiäme chambre;GCS Pharmacie entre l'hìpital local de Billom et la maison de retraite Groisne-Constance;GCS;
+4;Quatriäme chambre;Conseil dÇpartemental de l'accäs au droit du Finistäre ;GIP;CDAD
+7;Septiäme chambre;Groupement d'intÇret public PulvÇs;GIP;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DES HOPITAUX ET ETABLISSEMENTS LOCAUX DE PROXIMITE DE L'ARDECHE MERIDIONALE;GCS;HELPAM
+7;Septiäme chambre;Institut national supÇrieur des sciences agronomiques - AgroSup Dijon;EPSCP;AGROSUPDIJON
+3;Troisiäme chambre;CENTRE NATIONAL DU COSTUME DE SCENE ET DE LA SCENOGRAPHIE;;CNCSS
+3;Troisiäme chambre;êtablissement public du chÉteau de Fontainebleau ;EPA;EPCF
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE D'UNION POUR LE TRAITEMENT DU LINGE DES ETABLISSEMENTS DE SANTE;GCS;
+7;Septiäme chambre;Agence de services et de paiement;EPA;ASP
+7;Septiäme chambre;Etablissementnational des produits de l'agriculture et de la mer ;EPA;FranceAgriMer
+6;Sixiäme chambre;Groupement de coopÇration sanitaire du Pays d'Olmes;;
+6;Sixiäme chambre;Groupement de coopÇration sanitaire des centres hospitaliers de Luneville, Pont a Mousson, Toul, de Nancy et de l'Ouest Vosgien;GCS;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""CELLULE MUTUALISTE D' INFORMATION MEDICALE""";GCS;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire "" CENTRE RESSOURCES CLAUDE BALIER """;GCS;
+4;Quatriäme chambre;"HAUT CONSEIL DU COMMISSARIAT AUX COMPTES , ""H3C""";API;H3C
+3;Troisiäme chambre;ComunautÇ d'universitÇs et Çtablissements UniversitÇ Grenoble Alpes (COMUE) ex UNIVERSITE DE GRENOBLE (PRES);EPA - EPCS;UG
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements Languedoc-Roussillon UniversitÇs (COMUE) ;EPA-EPCS;UMSF
+3;Troisiäme chambre;Consortium national pour l'agriculture, l'alimentation, la santÇ animale et l'environnement ;EPA-EPCS;CNAASAE
+3;Troisiäme chambre;PRES Limousin-Poitou-Charentes;EPA-EPCS;LPC
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""H-C-L GIVORS""";GCS;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire "" CENTRE DE CARDIOLOGIE INTERVENTIONNELLE DE L'ALLIER""";GCS;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire "" CENTRE DE TISSUS, CELLULES ET THERAPIE CELLULAIRE""";GCS;
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Centre de ressources pour la prise en charge des auteurs de violences sexuelles;GCS;
+2;Deuxiäme chambre;Institut franáais du pÇtrole et des Çnergies nouvelles;;IFPEN
+2;Deuxiäme chambre;êcole navale;GIP;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Logipìle-Cambolle""";GCS;
+6;Sixiäme chambre;DEPISTAGE DES CANCERS DES PYRENEES ( DOC 65 );GIP;
+5;Cinquiäme chambre;GCSMS du Bocage bourbonnais ;GCSMS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" ENERGELOG DU POLE DE SANTE DU PAYS D'OLONNE""";GCS;
+2;Deuxiäme chambre;Compagnie franáaise pour l'exposition de Shangai 2010;;COFRES SAS
+7;Septiäme chambre;Ecole nationale supÇrieure maritime;EPSCP;ENSM
+7;Septiäme chambre;AUTORITE DE REGULATION DES ACTIVITES FERROVIAIRES et ROUTIERES;API;ARAF
+3;Troisiäme chambre;ECOLE NORMALE SUPERIEURE DE LYON (REGROUPE ID 1599 ET ID 3273 COMPETENCE CRC);EPSCP;ENSL
+3;Troisiäme chambre;êtablissement public citÇ de la cÇramique-Sävres-et-Limoges  ;EPA;EPSC
+7;Septiäme chambre;Institut d'enseignement supÇrieur et de recherche en alimentation sante animale sciences agronomiques et de l'environnement;EPSCP;VETAGROSUP
+7;Septiäme chambre;Ecole Nationale VÇtÇrinaire Agroalimentaire et de l'alimentation (ONIRIS);EPSCP;ONIRIS
+2;Deuxiäme chambre;Etablissement public des fonds de prÇvoyance militaire et de l'aÇronautique ;;EPFPMA
+7;Septiäme chambre;AÇroport de Montpellier-MÇditerranÇe;;AMM
+7;Septiäme chambre;AÇroport de Bordeaux-MÇrignac;;ABM
+7;Septiäme chambre;AÇroport Toulouse-Blagnac;;ATB
+7;Septiäme chambre;AÇroports de la Cìte d'Azur;;ACA
+7;Septiäme chambre;AÇroports de Lyon;;ADL
+3;Troisiäme chambre;êtablissement public du palais de la dÇcouverte de la citÇ des sciences et de l'industrie  ;;PPDCSI
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""STERILISATION DES CENTRES HOSPITALIERS"" DE FOUGERES VITRE";GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""ETABLISSEMENT DE SANTE PUBLICS DE LA CHARENTE""";GCS;
+4;Quatriäme chambre;SociÇtÇ immobiliäre de la Guadeloupe;;SIGUA
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire "" HAD DER ET PERTHOIS """;GCS;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""INSTITUT REGIONAL FEDERATIF DU CANCER DE FRANCHE -COMTE """;GCS;
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""POLE LOGISTIQUE HOSPITALIER NORD FRANCHE COMTE""";GCS;
+6;Sixiäme chambre;GIP GROUPEMENT D'INTERET PUBLIC DE DEPISTAGE ORGANISE DES CANCERS DE LA HAUTE- GARONNE;GIP;
+6;Sixiäme chambre;Ecole des hautes Çtudes en santÇ publique;EPSCP;EHESP
+6;Sixiäme chambre;Agence RÇgionale de SantÇ d'Alsace;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ d'Aquitaine;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ d'Auvergne;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Basse Normandie;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de santÇ de Bourgogne;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de santÇ de Bretagne;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Champagne-Ardenne;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Corse;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Franche-ComtÇ;EPA;ARS
+6;Sixiäme chambre;Agence rÇgionale de SantÇ de Guyane;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Haute Normandie;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Guadeloupe;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Languedoc-Roussillon;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Lorraine;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de santÇ de Martinique;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Midi-PyrÇnÇes;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Nord-Pas-de-Calais;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Picardie;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Poitou-Charente;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Provence-Alpes-Cìte-d'Azur;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de Rhìne-Alpes;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ des Pays de la Loire;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ d'Ile-de-France;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ du Centre;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ du Limousin;EPA;ARS
+6;Sixiäme chambre;Agence RÇgionale de SantÇ de l'OcÇan Indien;EPA;ARS
+3;Troisiäme chambre;MusÇe national Picasso - Paris;EPA;MNP
+7;Septiäme chambre;SociÇtÇ du Grand Paris;EPIC;SGP
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ Sorbonne Paris CitÇ (COMUE) ;EPA-EPCS;USPC
+3;Troisiäme chambre;Centre Val-de-Loire universitÇ (PRES) ;EPA-EPCS;CVLU
+7;Septiäme chambre;Institut Franáais du cheval et de l'Çquitation;EPA;IFCE
+3;Troisiäme chambre;HAUTE AUTORITE POUR LA DIFFUSION DES OEUVRES ET LA PROTECTION DES DROITS SUR INTERNET (HADOPI);API;HADOPI
+7;Septiäme chambre;Agence nationale chargÇe de la sÇcuritÇ sanitaire de l'alimentation de l'environnement et du travail;EPA;ANSES
+7;Septiäme chambre;Etablissement d'amÇnagement de la DÇfense Seine Arche;EPIC;EPADESA
+6;Sixiäme chambre;AGENCE DES SYSTEMES D'INFORMATION PARTAGES DE SANTE GIP;GIP;ASIP
+7;Septiäme chambre;Centre de ressources sur le pastoralisme et la gestion de l?espace;GIP;CRPGE 
+3;Troisiäme chambre;UniversitÇ numÇrique juridique francophone ;GIP;UNJF
+7;Septiäme chambre;ETABLISSEMENT PUBLIC D'AMENAGEMENT DU MANTOIS SEINE AVAL;EPIC;EPAMSA
+3;Troisiäme chambre;Agence du service civique ;GIP;ASC
+4;Quatriäme chambre;Institut franáais d?Allemagne;;IFA
+7;Septiäme chambre;"Organisme inter-Çtablissement du rÇseau des chambres d'agriculture ""alliance Çlevage loir et loire""";EP;OIR-ALLIANCE
+6;Sixiäme chambre;RESEAU ADDICTIONS MARTINIQUE GIP;GIP;RAM
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""PLATE-FORME HAD-SSIAD SUD 79 """;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""TELESANTE CENTRE""";GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" GROUPEMENT DU GRAND EST """;GCS;
+7;Septiäme chambre;Parc national des foràts de Champagne et Bourgogne -Groupement d'intÇràt public de prÇfiguration du parc national des foràts de Champagne et Bourgogne;GIP;PNECB
+6;Sixiäme chambre;GCS DE GESTION ADMINISTRATIVE ET TECHNIQUE DE LA RESTAURATION ET DES FONCTIONS LOGISTIQUES;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""BLANCHISSERIE INTERHOSPITALIERE SEINE ET MARNE"" ""BIH 77""";GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""ALPES SANTE""";GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""TELESANTE DE BASSE NORMANDIE";GCS;
+7;Septiäme chambre;"Organisme Inter Etablissements du rÇseau des chambres d'agriculture ""Suamme""";EP;OIR SUAMME
+3;Troisiäme chambre;êcole nationale des sports de montagne (REGROUPE L'ENSA ID 1660);EPA;ENSM
+7;Septiäme chambre;Organisme interÇtablissement du rÇseau des chambres d?agriculture Elevage Doubs Jura Territoire de Belfort (Etablissement interdepartemental de l'Çlevage du Doubs-Jura-Territoire de Belfort);;OIER - EIE 25-39-90
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DU PAYS DE FOUGERES;GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""POLE DE SANTE PLURIDISCIPLINAIRE LOIRE ET SILLON""";GCS;
+4;Quatriäme chambre;INSTITUT FRANCAIS;;IF
+3;Troisiäme chambre;PRES HAUTES ETUDES SORBONNE ARTS ET METIERS (HESAM);EPA-EPCS;HESAM
+7;Septiäme chambre;Chambre d'agriculture rÇgion Nord Pas-de-Calais;EPA;CA
+3;Troisiäme chambre;GROUPE DES ECOLES NATIONALES D'ECONOMIE ET STATISTIQUE GENES;;GENES
+3;Troisiäme chambre;Institut franáais des sciences et des technologies des transports, de l'amÇngement et des rÇseaux ;EPST;IFSTTAR
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE ALSACE E-SANTE;GCS;
+7;Septiäme chambre;Etablissement public d'amÇnagement Plaine de France;EPIC;EPAPF
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" URGENCE HOPITAUX DROME NORD - CCNP DU CENTRE HOSPITALIER DE SAINT MARCELLIN";GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""CHARENTE MARITIME NORD""";GCS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""GROUPEMENT AUDOIS DE PRESTATIONS MUTUALISEES MEDICO-LOGISTIQUES""";GCS;
+7;Septiäme chambre;ETABLISSEMENT PUBLIC D'AMENAGEMENT DE BORDEAUX -EURATLANTIQUE;EPIC;EPABE
+4;Quatriäme chambre;AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS (ANTAI);EPA;ANTAI
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE LA GIRONDE (GIP);GIP;CDAD
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale de La chapelle Saint-Laurent ;GCSMS;
+2;Deuxiäme chambre;SociÇtÇ de financement et d'investissement pour la rÇforme et le dÇveloppement;;SOFIRED
+4;Quatriäme chambre;AGENCE DE GESTION ET DE RECOUVREMENT DES AVOIRS SAISIS ET CONFISQUES (AGRASC);EPA;AGRASC
+6;Sixiäme chambre;GCS HOPITAUX DU SERVICE PUBLIC DU SUD DE LA METROPOLE LILLOISE;GCS;HPSM
+6;Sixiäme chambre;GCS TOMOGRAPHE A EMISSION DE POSITIONS HAUTE ALSACE;GCS;TEPSCAN
+6;Sixiäme chambre;GCS BLANCHISSERIE NIEVRE ALLIER;GCS;GCS BLANCHISSERIE
+5;Cinquiäme chambre;Groupement de coopÇration des Çtablissements publics pour personnes agÇes du bassin de vie de l'auxerrois et la puisaye-forterre;GCSMS;
+6;Sixiäme chambre;GCS POLE D'IMAGERIE MEDICALE DU SUD GIRONDE;GCS;
+6;Sixiäme chambre;GCS PHARMACIE A USAGE INTERIEUR DU CH DE SENLIS ET DE LA CLINIQUE DU VALOIS;GCS;
+6;Sixiäme chambre;GCS BLANCHISSERIE INTERHOSPITALIERE DE LA COTE D'OPALE (BCO);GCS;
+6;Sixiäme chambre;GCS GROUPEMENT SANITAIRE DE L'OUEST;GCS;
+6;Sixiäme chambre;GCS BLANCHISSERIE INTERHOSPITALIERE LOIRE SUD (BILH SUD);GCS;
+6;Sixiäme chambre;GCS DES HOPITAUX DU COMMINGES;GCS;
+6;Sixiäme chambre;GCS RESEAU GERONTOLOGIQUE VILLE HOPITAL DE POITIERS / CAP (RGVHP);GCS;
+6;Sixiäme chambre;GCS RESEAU REGIONAL DES URGENCES DE FRANCHE-COMTE;GCS;
+6;Sixiäme chambre;GCS STERINORD;GCS;
+6;Sixiäme chambre;GCS THIERS-AMBERT;GCS;
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale Isac/Rohan;GCSMS;
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""UNITE DE TRAITEMENT INTER-ETABLISSEMENTS DU LINGE""";GCS;GCS UTIL
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale Les rÇsidences du Centre-Somme;GCSMS;
+5;Cinquiäme chambre;Groupement coopÇration sociale et mÇdico-sociale - Groupement pour la promotion des droits et libertÇs des personnes en Çtablissement mÇdico-social;GCSMS;
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL D'ACCES AU DROIT DE L'ARIEGE;GIP;CDAD
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE D'IMAGERIE MEDICALE DE L'AIN;GCS;GCS
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE VOIRONNAIS-CHARTREUSE;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE ONCOCENTRE;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DE RADIOTHERAPIE DE LA REGION D'ANNECY (GRRA);GCS;
+5;Cinquiäme chambre;GCSMS Formation et dÇveloppement Bretagne (FORMADEV Bretagne);GCMS;
+5;Cinquiäme chambre;Groupe d'initiative et de ressources 7 ;GCSMS;
+6;Sixiäme chambre;AGENCE NATIONALE D'APPUI A LA PERFORMANCE DES ETABLISEMENTS DE SANTE ET MEDICO-SOCIAUX AGENCE NATIONALE D'APPUI A LA PERFORMANCE DES ETABLISSEMENTS DE SANTE ET MEDICO-SOCIAUX;GIP;ANAP
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""APT - AVIGNON """;GCS;
+2;Deuxiäme chambre;Guichet Entreprises;GIP;GE
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" POLE DE SANTE CHALONNAIS""";GCS;
+7;Septiäme chambre;Etablissement public pour la gestion de l'eau et de la biodiversitÇ du Marais poitevin;EPA;EPMP
+6;Sixiäme chambre;"GCS ""HAD DE REEDUCATION HSNM- AP-HP""";GCS;
+5;Cinquiäme chambre;GCSMS Ehpad Le sÇquoia/Association Habitat-loisirs pour le 3äme Ége ;;
+4;Quatriäme chambre;GROUPEMENT D'INTERET PUBLIC POUR L'EDUCATION NUMERIQUE EN AFRIQUE;GIP;ENA
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements Normandie UniversitÇ (COMUE);EPA-EPCS;NU
+3;Troisiäme chambre;Centre universitaire de formation et de recherche de Mayotte ;EPA;CUFR
+3;Troisiäme chambre;UNIVERSITE DE LORRAINE (DECRET 2011-1169 DU 22/09/2011 FUSION DES UNIVERSITES DE METZ ID 1914, NANCY I ET II (ID 1912 ET 1913 ET DE L'INPL ID 1908 AVEC L'UNIVERSITE DE LORRAINE ID 5796);EPA-EPCS;UL
+3;Troisiäme chambre;GIP StratÇgie d'action Çducative de Courcouronnes;GIP;SAE Courcouronnes
+3;Troisiäme chambre;France MÇdias Monde ;;AEF
+5;Cinquiäme chambre;RÇseau pour adolescents en difficultÇs psychique et sociale de l'Isäre                                                                                                                                       ;;RAI
+7;Septiäme chambre;France Haras;GIP;FH
+5;Cinquiäme chambre;GROUPEMENT DE COOPERATION SOCIALE ET MEDICO-SOCIALE DES TROIS SOURCES;GCSMS;
+5;Cinquiäme chambre;GROUPEMENT DE COOPERATION SOCIALE ET MEDICO-SOCIALE - GROUPEMENT DES EHPAD PUBLICS DU VAL DE MARNE;;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE GROUPE HOSPITALIER D'ARMOR;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE IFSI DE HAUTE COTE D'OR;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE POUR L'IMAGERIE EN COUPE DU NORD VIENNE;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE PSYCHIATRIE DE L'INDRE;GCS;
+3;Troisiäme chambre;UNIVERSITE AIX-MARSEILLE ( FUSION AVEC ID 5275 PRES EPCS AIX-MARSEILLE UNIVERSITE DECRET 2012-177 DU 06-02-2012);EPSCP;UAM
+5;Cinquiäme chambre;RENOUVELLEMENT URBAIN DES QUARTIERS SEINE ESSONNE GIP;GIP;RUQSE
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE BLANCHISSERIE INTERHOSPITALIERE DU PAYS DE VITRE;GCS;BIPV
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ Paris-Seine (COMUE) ;EPA-EPCS;UPGO
+6;Sixiäme chambre;GCS : FILIERE GERIATRIQUE DU TERRITOIRE VALENCIENNOIS;GCS;FGTV
+6;Sixiäme chambre;GCS CENTRE D'ANGIOPLASTIE DU BEAUJOLAIS;GCS;CAB
+6;Sixiäme chambre;GCS POLE REGIONAL DE REFERENCE EN CANCEROLOGIE PACA OUEST;;PRRC
+6;Sixiäme chambre;GCS : DU TERRITOIRE DE RREMIER RECOURS DE L'HOPITAL D'UZES;GCS;TSPRHU
+6;Sixiäme chambre;GCS RESEAU INTERREGIONAL POUR LE SYSTEME D'INFORMATION DE L'AIDE MEDICALE;;RRAMUHN
+6;Sixiäme chambre;GCS : FLORIVAL- HARTH-VALLEE;GCS;FHV
+6;Sixiäme chambre;GCS MERRI MONTPELLIER-NIMES;GCS;MERRI
+6;Sixiäme chambre;GCS NORD HAUTE-MARNE;GCS;NHM
+6;Sixiäme chambre;GCS DE PLAISIR;;PL
+6;Sixiäme chambre;"GCSMS ""COORDINATION GEROTONLOGIQUE DE LA COTE SUD DES LANDES""";GCSMS;CGCSL
+6;Sixiäme chambre;"GCSMS ""INTER ETABLISSEMENT DU SUD MANCHE""";GCSMS;ISM
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE ACHATS DU CENTRE;GCS;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE BIOLOGIE DU TERRITOIRE DE HAUTE-SAVOIE NORD;GCS;
+4;Quatriäme chambre;CONSEIL NATIONAL DES ACTIVITES PRIVEES DE SECURITE;EPA;CNAPS
+3;Troisiäme chambre;Campus condorcet;EPA-EPCS;CC
+3;Troisiäme chambre;GIP Guyane base avancÇe 2014-2016 ;GIP;GBA
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DU TERRITOIRE N¯6 DE BRETAGNE;GCS;
+3;Troisiäme chambre;Institut national des sciences appliquÇes de Strasbourg ;EPSCP;INSA
+7;Septiäme chambre;Parc national des Calanques;EPA;PNCAL
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DU PAYS D'AIX;;GCS
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""BLANCHISSERIE INTERHOSPITALIERE AVEYRONNAISE""";GCS;GCS
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements Institut polytechnique du Grand Paris (COMUE) ;EPA-EPCS;CIDF
+3;Troisiäme chambre;êtablissement public UniversitÇ fÇdÇrale europÇenne Champagne-Ardenne-Picardie PRES ;EPA-EPCS;UFECAP
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANTAIRE DE CANCEROLOGIE PUBLIQUE;GCS;GCS
+2;Deuxiäme chambre;Mission du centenaire de la premiäre guerre mondiale 1914-2014;GIP;MCPGM
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE SYSTEME D'INFORMATION REGIONAL DE SANTE DE  BASTIA (SIRS-CO);;GCS
+5;Cinquiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DE SANTE MENTALE DU GOLFE DU MORBIHAN;GCS;
+7;Septiäme chambre;AgroSup, Tech Est - Institut pour le dÇveloppement de formations supÇrieures agricoles professionnalisÇes ;GIP;
+6;Sixiäme chambre;GCS BLANCHISSERIE INTER-HOSPITALIERE DU GRAND CLERMONT;GCS;BIHGC
+5;Cinquiäme chambre;FORMATION EMPLOI DES PERSONNES HANDICAPEES GIP;GIP;FEPH
+6;Sixiäme chambre;GCS PENTHIEVRE SANTE;;PS
+1;Premiäre chambre;DIRECTION DES RESIDENTS A L'ETRANGER ET DES SERVICES GENERAUX (DRESG);;DRESG
+6;Sixiäme chambre;GCS - POUR L'ACTIVITE DE STERILISATION INTERHOSPITALIERE COTE D'OPALE;;CRFMLT
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Centre de rÇadaptation fonctionnelle Maubreuil-La Tourmaline";GCS;ASICO
+6;Sixiäme chambre;GCS - CHIRURGIE DU SUD-FINISTERE;GCS;CSF
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Hospitalo-Universitaire Rhìne-Alpes-Auvergne ;GCS;HOURAA
+6;Sixiäme chambre;GCS SYSTEME D'INFORMATION DE L'ESTUAIRE;GCS;SIE
+3;Troisiäme chambre;ComitÇ national des jeux de la francophonie Nice France 2013;GIP;CNJF
+6;Sixiäme chambre;"GCSMS "" BLANCHISSERIE DES ETABLISSEMENTS DE SANTE DE PROXIMITE DE DARNEY LAMARCHE DU VAL DU MADON ET DE L'EPISOME DE MONTHUREUX SUR SAONE";GCMS;GCSMS
+6;Sixiäme chambre;GCS centre hospitalier intercommunal d'Alenáon-Mamers et du centre psychothÇrapique de l'Orne;GCS;
+6;Sixiäme chambre;GCS SYSTEME INFORMATISE D'ADMINISTRATION DU PROCESSUS DE SOIN;GCS;SINAPS
+6;Sixiäme chambre;GCS LA TRACE;GCS;LA TRACE
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ de recherche Paris sciences et lettres - PSL Research University (COMUE);EPA-EPCS;PSL
+3;Troisiäme chambre;INSTITUT POLYTECHNIQUE DE BORDEAUX (REGROUPE LES ID 3274 ENSERB ET 1880 ENSC);;IPB
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ Paris Lumiäres (COMUE) ;EPA-EPCS;UPL
+5;Cinquiäme chambre;"ORGANISME GESTIONNAIRE DU DEVELOPPEMENTPROFESSIONNEL CONTINU ""OGDPC"" GIP";GIP;OGDPC
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DU NORD -OUEST TOURAINE;;NOT
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""CENTRE REGIONAL DE COMPETENCE EN SURDITE INFANTILE""";GCS;CRSI
+2;Deuxiäme chambre;ComitÇ national des jeux mondiaux militaires d'hiver Annecy 2013;GIP;CNJMMHA
+6;Sixiäme chambre;GCSMS-MAIA DU LITTORAL ET DES FLANDRES;GCSMS;MAIALF
+3;Troisiäme chambre;UNIVERSITE D'ARTOIS;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE DU LITTORAL COTE D'OPALE;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE DE LA ROCHELLE;EPSCP;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE DE NIMES (UNIMES);;UNIVERSITE
+3;Troisiäme chambre;UNIVERSITE DE BRETAGNE-SUD;EPSCP;UNIVERSITE
+7;Septiäme chambre;"Groupement d'intÇràt public ""Agence franáaise des villes et territoires mÇditerranÇens durables""";GIP;AVITEM
+7;Septiäme chambre;AÇroport Martinique AimÇ CÇsaire (sociÇtÇ par actions);;SAMAC
+4;Quatriäme chambre;"ETABLISSEMENT PUBLIC ""CAMPUS FRANCE """;EPIC;CAMPUS
+4;Quatriäme chambre;"Groupement d'intÇràt public ""Conseil dÇpartemental de l' accäs au droit de Mayotte""";GIP;CDAD
+6;Sixiäme chambre;"GCS ""DE RESTAURATION VIENNE - BEAUREPAIRE""";GCS;GCS
+7;Septiäme chambre;GRAND PORT MARITIME DE LA REUNION;EPIC;GPMDLR
+7;Septiäme chambre;GRAND PORT MARITIME DE LA GUYANE;EPIC;GPMDLG
+7;Septiäme chambre;GRAND PORT MARITIME DE LA MARTINIQUE;EPIC;GPMDLM
+6;Sixiäme chambre;GCS DE MEDECINE D'URGENCE DU SUD FINISTERE;GCS;MUSF
+6;Sixiäme chambre;"GCS "" MEDICO -TECHNIQUE ET LOGISTIQUE DU SUD FINISTERE """;GCS;MTLSF
+6;Sixiäme chambre;"GCS ""AUBAGNE LA CIOTAT - LABORATOIRE INTERHOSPITALIER """;GCS;ALC-LH
+6;Sixiäme chambre;"GCS "" PHARMACOOPE """;GCS;PHARMA
+6;Sixiäme chambre;"GCS ""INFOTECH 36 """;GCS;I36
+6;Sixiäme chambre;"GCS ""BLANCHISSERIE SUD TOURAINE """;GCS;BST
+5;Cinquiäme chambre;COOPERATION POUR L'EMPLOI ET LA FORMATION EN SANTE DANS LE CANTAL (COEF 15 - SANTE) GCSMS;GCSMS;GCMS
+3;Troisiäme chambre;êtablissement public Paris-Saclay;EPIC;EPPS
+3;Troisiäme chambre;INSTITUT D'ETUDES POLITIQUES DE LILLE;EPA;IEP
+6;Sixiäme chambre;"GROUPEMENT SANITAIRE DE RYTHMOLOGIE DE BOULOGNE SUR MER ""BOULOGNE - GCS RYTHMOLOGIE""";GCS;GCS
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE BLANCHISSERIE INTER-HOSPITALIER DU LITTORAL;GCS;GCS
+5;Cinquiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ET MEDICO SOCIALE DE RESTAURATION "" AU FIL DU RHONE """;GCSMS;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Correzien;GCS;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Restauration Nord-Drìme;;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire des Alpes du Sud;GCS;GCSAS
+5;Cinquiäme chambre;"GCSMS "" ESTUAIRE """;;GCSMS
+5;Cinquiäme chambre;"GCSMS "" ESPACES ANJOU """;;EA
+6;Sixiäme chambre;COMITE DE PROTECTION DES PERSONNES SUD EST V;;CPP
+6;Sixiäme chambre;COMITE DE PROTECTION DES PERSONNES EST III;;CPP
+7;Septiäme chambre;OIER PLANFUM : informatique et dÇveloppement;EP;OIER
+3;Troisiäme chambre;Observatoire de la Cìte-d'Azur ;EPA;OCA
+6;Sixiäme chambre;GCS Coordination nationale des CHU-CHR en matiäre de recherche et d'innovation mÇdicales;;GCS
+6;Sixiäme chambre;GCS blanchisserie du GÇnevois et de la VallÇe de l'Arve;;GCS
+6;Sixiäme chambre;GCS blanchisserie Besanáon-Novillars;;GCS
+6;Sixiäme chambre;GCS hospitalo-universitaire Lille-Armentiäres;;GCSHU
+6;Sixiäme chambre;GCS centre de traitement textile hospitalier;GCS;GCS
+6;Sixiäme chambre;GCS blanchisserie Ouest-HÇrault;;GCS
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE "" DES HOPITAUX DE SARREGUEMINES """;GCS;GCS HS
+6;Sixiäme chambre;GCS des Yvelines Sud;GCS;GCS YS
+6;Sixiäme chambre;GCS mÇdico-technique et logistique Loire et Sologne;GCS;GCS HA
+6;Sixiäme chambre;GCS des Hautes-Alpes;;GCS HA
+4;Quatriäme chambre;"CONSEIL NATIONAL DES COMMUNES "" COMPAGNONS DE LA LIBERATION """;EPA;CNC
+6;Sixiäme chambre;GCS  IRM des CH de Guingamp, Lannion et Morlaix ;GCS;IGLM
+3;Troisiäme chambre;MUSEE DES CIVLISATIONS DE L'EUROPE ET DE LA MEDITERRANEE (MUCEM );;MUCEM
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE III""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE V""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE VI""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE VII""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE VIII""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE XI""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""NORD-OUEST I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""NORD-OUEST II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""NORD-OUEST III""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""NORD-OUEST IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""OUEST I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""OUEST II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""OUEST III""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""OUEST IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""OUEST V""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""OUEST VI""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""EST I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""EST II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""EST IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD EST I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-EST II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-EST III""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-EST IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-EST VI""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD MEDITERRANEE I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-MEDITERRANEE II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD MEDITERRANEE III""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD MEDITERRANEE IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD MEDITERRANEE V""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-OUEST ET OUTRE MER I""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD-OUEST ET OUTRE MER II""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD OUEST ET OUTRE MER III""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""SUD OUEST ET OUTRE MER IV""";;CPP
+6;Sixiäme chambre;"COMITE DE PROTECTION DES PERSONNES ""ILE DE FRANCE X""";;CPP
+3;Troisiäme chambre;Centre universitaire de formation et de recherche Jean-Franáois Champollion ;EPA;CUFR JF CHAMPOLLION
+7;Septiäme chambre;Etablissement public d'amÇnagement d'Alzette-Belval;EPIC;EPAB
+6;Sixiäme chambre;Agence Nationale de sÇcuritÇ du mÇdicament et des produits de santÇ;EPA;ANSM
+3;Troisiäme chambre;CENTRE REGIONAL DE DOCUMENTATION PEDAGOGIQUE DE LA GUADELOUPE;EPA;
+3;Troisiäme chambre;Institut national des sciences appliquÇes Centre Val-de-Loire ;;INSA VAL DE LOIRE
+7;Septiäme chambre;FONDS POUR LE DEVELOPPEMENT D'UNE POLITIQUE INTERMODAL DES TRANSPORTS DANS LE MASSIF ALPIN;EPA;FDPITMA
+3;Troisiäme chambre;Agence bibliographique  de l'enseignement supÇrieur ;EPA;ABES
+7;Septiäme chambre;Chambre interdÇpartementale d'agriculture Doubs-Territoire de Belfort;EPA;CIATDB
+7;Septiäme chambre;Chambre interdÇpartementale d'agriculture de Savoie-Mont Blanc;EPA;CIASMB
+7;Septiäme chambre;Chambre d'agriculture de RÇgion Alsace;EPA;CARA
+3;Troisiäme chambre;Organisme gestionnaire de l'apprentissage dans l'enseignement supÇrieur;;OGAES
+4;Quatriäme chambre;CONSEIL DEPARTEMENTAL DE L'ACCES AU DROIT DE HAUTE-LOIRE;GIP;CDAD
+6;Sixiäme chambre;GCS HOSPITALO-UNIVERSITAIRE DE L'ARTOIS;;HUA
+6;Sixiäme chambre;GCS LABORATOIRE INTER-HOSPITALIER DE BIOLOGIE MEDICALE DE LOT-ET-GARONNE;;LIHBMLG
+5;Cinquiäme chambre;GCSMS PAYS DE CRAON;;PC
+6;Sixiäme chambre;GCS INTERHOSPITALIER DES ARDENNES;;GCSIA
+6;Sixiäme chambre;GCS BLANCHISSERIE INTERHOSPITALIERE DU JURA;;BIJ
+6;Sixiäme chambre;GCS LOGISTIQUE ET MEDICO-TECHNIQUE EPINAL REMIREMONT;;LMTER
+6;Sixiäme chambre;GCS DE LA MAYENNE;;GCS
+6;Sixiäme chambre;GCS BIOLOGIE MEDICALE DU TERRITOIRE DE SANTE N¯3 DE BRETAGNE;;GCS
+6;Sixiäme chambre;GCS BLANCHISSERIE;;GCS
+6;Sixiäme chambre;GCS SERVICES INTER-ETABLISSEMENTS CREUSOIS SIC;GCS;SIC
+6;Sixiäme chambre;GCS SYSTEME D'INFORMATION D'EURE-ET-LOIR;;SIEL
+6;Sixiäme chambre;GCS SERVICE INTERHOSPITALIERS D'ARMOR;GCS;SIA
+6;Sixiäme chambre;GCS BOCAGE ET GATINE;;GCS
+6;Sixiäme chambre;GCS CENTRES HOSPITALIERS DE FONTAINEBLEAU ET NEMOURS;;
+6;Sixiäme chambre;GROUPEMENT DE COOPERATION SANITAIRE DU CHALONNAIS;GCS;
+3;Troisiäme chambre;UNIVERSITE DE BORDEAUX (FUSION DES UNIVERSITES DE BORDEAUX 1 (ID 1867), BORDEAUX II (ID 1881) ET BORDEAUX IV (ID 5923) -  A COMPTER DU 01/01/2014);EPA - EPCS;
+5;Cinquiäme chambre;GCSMS MAIA PERPIGNAN;;
+6;Sixiäme chambre;GCS FILIERE GERIATRIQUE DU TERRITOIRE DU DOUAISIS;;
+6;Sixiäme chambre;GCS LABORATOIRE INTERHOSPITALIER DE L'AUDE, GCS DE MOYEN;;
+6;Sixiäme chambre;GCS BIOLOGIE DU TERRITOIRE DE L'ARIEGE;GCS;
+6;Sixiäme chambre;GCS COMMUNAUTE HOSPITALIERE DE TERRITOIRE DE L'OISE-OUEST CH2O;;
+6;Sixiäme chambre;GCS INSTITUT DE CANCEROLOGIE DE BRETAGNE OCCIDENTALE;;
+6;Sixiäme chambre;GCS POUR LA MUTUALISATION DE L'ACHAT HOSPITALIER DE LA REGION NORD PAS DE CALAIS;;GCS
+3;Troisiäme chambre;ECOLE NORMALE SUPERIEURE DE RENNES (EN 2014 TRANSFORMATION DE L'ANTENNE DE BRETAGNE DE L'ECOLE NORMALE SUPERIEURE DE CACHAN (ID 3271) EN UNE ECOLE NORMALE SUPERIEURE DE RENNES);;
+5;Cinquiäme chambre;GCSMS CHS L'ABRI;;
+5;Cinquiäme chambre;GCSMS BAIE D'ARMOR GROUPEMENT SOCIAL;;
+7;Septiäme chambre;AÇroport international de Strasbourg-Entzheim SA;;
+3;Troisiäme chambre;êcole nationale supÇrieure de la nature et du paysage ;;
+6;Sixiäme chambre;CoopÇration pour l'amÇlioration des pratiques professionnelles en santÇ en Bretagne;;CAPPS Bretagne
+6;Sixiäme chambre;BLANCHISSERIE HOSPITALIERE DE BIGORRE;;BHB
+4;Quatriäme chambre;INSTITUT FRANCAIS D'ALGERIE;;IFA
+2;Deuxiäme chambre;Groupement pour l'innovation et le transfert de technologie en Auvergne ;GIP;GITTA
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire  ""GROUPEMENT D'IMAGERIE MEDICALE DE PERIGUEUX""";;GCS
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Blanchisserie interhospitaliäre de la Basse-Terre""";GCS;GCS
+6;Sixiäme chambre;GCS biologie publique Alsace Nord ;GCS;GCS
+7;Septiäme chambre;Centre d'Çtudes et d'expertise sur les risques, l'environnement, la mobilitÇ et l'amÇnagement;EPA;CEREMA
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""UnitÇ de production alimentaire commune ""  ex GROUPEMENT DE COOPERATION SANITAIRE DE MOYENS LOGISTIQUES";;GCS
+6;Sixiäme chambre;"GROUPEMENT DE COOPERATION SANITAIRE ""BIOLOGIE MEDICALE DU TRIANGLE ET DER""";GCS;GCS
+5;Cinquiäme chambre;"GROUPEMENT DE COOPERATION SOCIALE ET MEDICO SOCIALE ""CESAMES""";;GCSMS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire de blanchisserie Ö Vienne ;;GCS
+5;Cinquiäme chambre;"GIP ""LORRAINE PARCOURS METIERS""";GIP;LPM
+6;Sixiäme chambre;GCS pour un parcours gÇrontologique dans l'agglomÇration Marseillaise;;PGAM
+6;Sixiäme chambre;GCS pour la recherche et la formation de santÇ mentale;;RFSM
+6;Sixiäme chambre;GCS pharmacie de la patience;;PP
+4;Quatriäme chambre;"GIP ""PORTAIL D'ACCES A LA PUBLICITE LEGALE DES ENTREPRISES PPLE.FR";;PPLE
+2;Deuxiäme chambre; Concours commun Mines-Ponts;EPSCP;CCMP
+6;Sixiäme chambre;GCS de moyen du Clermontois;GCS;GCS
+7;Septiäme chambre;AÇroport de La RÇunion - Roland-Garros;;AR
+4;Quatriäme chambre;INSTITUT FRANCAIS DU MAROC;;IFM
+6;Sixiäme chambre;GCS eurÇlien de psychiatrie infanto-juvÇnile et handicap;;EPIH
+3;Troisiäme chambre;GIP Institut d'Auvergne du dÇveloppement des territoires;;IADT
+5;Cinquiäme chambre;GCSMS TELEGRIA IDF;;TELEGERIA
+6;Sixiäme chambre;GCS de Haute-Saìne;GCS;GCS
+6;Sixiäme chambre;GCS services interhospitaliers Cannes-Grasse-Antibes-FrÇjus;GCS;GCS
+4;Quatriäme chambre;"GIP ""CONSEIL DEPARTEMENTAL DE L ACCES AU DROIT DES HAUTES PYRENEES""";;CDAD
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Achat santÇ en Bretagne ;GCS;GCS
+6;Sixiäme chambre;GCS inter-Çtablissement : Vire Manche Calvados;GCS;GCS
+6;Sixiäme chambre;GCS pharmacie LigÇrienne;GCS;GCS
+6;Sixiäme chambre;GCS DU NORD VAL D'OISE;GCS;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire de biologie mÇdical du Nord Val d'Oise;GCS;GCS
+7;Septiäme chambre;Ecole d'ingÇnieurs en agriculture - OIER-organisme interÇtablissement du rÇseau des chambres d'agriculture Æ ESITPA, Çcole d'ingÇnieurs en agriculture Ø;;ESITPA
+5;Cinquiäme chambre;GCSMS LES EHPAD PUBLICS DE L'ESSONNE;GCSMS;GCSMS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire interhospitalier de biologie mÇdicale du Vaucluse;GCS;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire stÇrilisation de la vallÇe de l'Arve;GCS;GCS
+5;Cinquiäme chambre;GCSMS CLIC REPER'AGE 77;GCSMS;REPER'AGE
+3;Troisiäme chambre;AcadÇmie Franáaise;Personne publique;AF
+5;Cinquiäme chambre;Groupement d'intÇràt public systäme national d'enregistrement - SNE;GIP;SNE
+5;Cinquiäme chambre;"Groupement de coopÇration sociale et mÇdico-sociale ""service d'aide Ö la personne des communes du canton de Port Louis""";NON APU;GCSMS
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale d'Epinal;NON APU;GCSMS
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Pharmacie interhospitaliäre du Pilat""";NON APU;GCS
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""laboratoire interhospitalier de biologie du Quercy""";GCS;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire des Çtablissements de santÇ douessins;NON APU;GCS ESD
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Æ Groupe hospitalier Seclin Carvin Ø;GCS;GCS
+6;Sixiäme chambre;"Groupement d'intÇràt public "" Institut universitaire du cancer de Toulouse""";GIP;IUCT
+6;Sixiäme chambre;Groupement de coopÇration sanitaire logistique Ch Saint-Calais;GCS;GCS
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Groupement de biologie mÇdicale Anne de Beaujeu""";GCS;GCS
+6;Sixiäme chambre;GCS DOUAI SOMAIN;GCS;GCS DS
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""TEP Public/PrivÇ de Cornouaille""";GCS;GCS
+6;Sixiäme chambre;GCS COOPSIF;GCS;GCS COOPSIF
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Blanchisserie interhospitaliäres ""BIH VALS DE DROME";GCS;BIH
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""RÇseau Bretagne Urgences""";GCS;GCS
+3;Troisiäme chambre;UniversitÇ de Montpellier;APU;UM
+3;Troisiäme chambre;UniversitÇ de Guyane;APU;UG
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""IRM de Haute Cìte d'Or""";GCS;GCS IRM
+7;Septiäme chambre;SNCF;NON APU;SNCF
+5;Cinquiäme chambre;Groupement de coopÇration mÇdico-social Institut Claude Pompidou;GCSMS;GCSMS
+3;Troisiäme chambre;"Groupement d'intÇràt public ""RÇseau professionnel des enseignants""";NON APU;RPE
+7;Septiäme chambre;"Groupement d'intÇràt public ""Groupe de soutien de la mission de prÇfiguration de la MÇtropole du Grand Paris""";NON APU;GSMPMGP
+6;Sixiäme chambre;"Groupement d'intÇràt public ""Maison des alolescents de Vaucluse""";NON APU;MAV
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""GCS PUI de la Fecht""";GCS;GCSPUI
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""GCS du Kemberg""";GCS;GCS Kemberg
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Institut de formation des cadres de santÇ du territoire Lyonnais""";GCS;GCS IFCS-TL
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""Groupement inter hospitalier de Blanchisserie Angevin""";GCS;GIBA
+6;Sixiäme chambre;"Groupement de coopÇration sanitaire ""GCS restauration VallÇe de la Marne""";GCS;GCSRVM
+6;Sixiäme chambre;Groupement de coopÇration sanitaire blanchisserie des hìpitaux de Savoie;GCS;GCS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire HACOM;GCS;HACOM
+6;Sixiäme chambre;Groupement de coopÇration sanitaire interhospitalier varois d'approvisionnement d'entretien du linge;GCS;GCSIVAL
+6;Sixiäme chambre;Groupement de coopÇration sanitaire pharmacie Centre Yonne;GCS;GCS
+7;Septiäme chambre;Agence de dÇveloppement d'amÇnagement rural et d'amÇnagement foncier;EPICPUB;ADRAF
+6;Sixiäme chambre;"Groupement d'intÇràt public ""santÇ et informatique Limousin Poitou Charentes""";GIP;SILPC
+7;Septiäme chambre;Institut agronomique, vÇtÇrinaire et forestier de France;APU;IAVFF
+5;Cinquiäme chambre;Agence nationale de contrìle du logement social;APU;ANCOLS
+3;Troisiäme chambre;CentraleSupÇlec;APU;CS
+7;Septiäme chambre;Chambre de l'agriculture, de la pàche et de l'aquaculture de Mayotte ;EPA;CAPAM
+6;Sixiäme chambre;Groupement de coopÇration sanitaire de Blanchisserie Nazelles NÇgron;GCS;GCSB
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ Bourgogne-Franche-ComtÇ (COMUE);EPA-EPCS;UBFC
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ CìtÇ d'Azur (COMUE);EPA-EPCS;UCA
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements Sorbonne UniversitÇs (COMUE);EPA-EPCS;SU
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ Paris-Saclay (COMUE);EPA-EPCS;UPS
+3;Troisiäme chambre;CommunautÇ d'universitÇs et Çtablissements UniversitÇ de Champagne (COMUE);EPA-EPCS;UPS
+3;Troisiäme chambre;AcadÇmie nationale de mÇdecine;;
+6;Sixiäme chambre;Groupement de coopÇration sanitaire IRM du Pays de Morlaix;GCS;IRM 
+3;Troisiäme chambre;"Groupement d'intÇràt public ""Institut Villebon- Georges Charpak""";GIP;
+6;Sixiäme chambre;Groupement de CoopÇration Sanitaire Cuisine Bellevue-Beauregard;GCS;CBB
+6;Sixiäme chambre;Groupement de coopÇration sanitaire CHU de France Finance;GCS;CHUFF
+6;Sixiäme chambre;Groupement de CoopÇration Sanitaire Cuisine Interhospitaliäre d'Auxerre;GCS;CIA
+6;Sixiäme chambre;Grouoement de coopÇration social Institut de Formation Public Varois des Professions de SantÇ;GCS;IFPVPS
+6;Sixiäme chambre;Groupement de coopÇration sanitaire PyrÇnÇes TEP;GCS;PTEP
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico social CONFLUENCE;GCSMS;
+6;Sixiäme chambre;"Groupement de CoopÇration Sanitaire de Pharmacie ""ELLE-LAITA""";GCS;
+6;Sixiäme chambre;Groupement de coopÇration sanitaire Blanchisserie Interhospitaliäre Lavaur Gaillac Graulhet;GCS;
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale du Grand Lille;GCSMS;
+4;Quatriäme chambre;Mission Culturelle et Universitaire Franáaise aux Etats-Unis;EDCE;
+5;Cinquiäme chambre;Groupement de coopÇration sociale et mÇdico-sociale EHPAD publics territoriaux du Tarn ;GCS;
+4;Quatriäme chambre;Agence franáaise d'expertise technique internationale;;AFETI
+3;Troisiäme chambre;"CommunautÇ d'universitÇs et Çtablissements ""UniversitÇ confÇdÇrale LÇonard de Vinci' (COMUE)";EPA-EPCS;UCLV
+6;Sixiäme chambre;GIP ADDICTOLOGIE ET COMORBIDITE DE LA MARTINIQUE;;ACM
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
